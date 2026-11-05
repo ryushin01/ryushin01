@@ -12,11 +12,11 @@
 |---|---|
 | 언어 | TypeScript, JavaScript, HTML, CSS, Dart |
 | 프레임워크 | React, Next.js, Vue.js, Quasar, React Native, Flutter |
-| 상태·데이터 | TanStack Query, Axios, Redux, Zustand, jotai, Vuex, Pinia, GetX, Provider, Zod |
+| 상태·데이터 | TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Redux, Zustand, jotai, Vuex, Pinia, GetX, Provider, Zod |
 | 스타일 | Tailwind CSS, UnoCSS, Sass(SCSS), CSS Modules, styled-components, Emotion, vanilla-extract |
 | UI·인터랙션 | shadcn/ui, Base UI, Chakra UI, Ant Design, Recharts, Tiptap, Swiper, GSAP, Lottie |
-| 테스트 | Vitest, Jest, Testing Library, Playwright, Cypress, axe |
-| 문서·품질 | Storybook, Histoire, ESLint, Prettier, Biome, Stylelint, oxlint, husky, lint-staged |
+| 테스트 | Vitest, Jest, Testing Library, Playwright, Cypress, MSW, axe |
+| 문서·품질 | Storybook, Histoire, ESLint, Prettier, Biome, Stylelint, oxlint, husky, lint-staged, Sentry |
 | 빌드·도구 | Vite, Turbopack, Turborepo, pnpm, Yarn, Bun, Git, GitHub Actions, GitHub Pages, Vercel, Netlify |
 | 협업·AI | Jira, Confluence, Claude Code, Codex |
 
@@ -30,10 +30,10 @@
 
 | 프로젝트 | 내용 | 기술 | 실행 |
 |---|---|---|---|
-| [avocado-monorepo](https://github.com/ryushin01/avocado-monorepo) | 보드게임 카페 프랜차이즈를 가정한 모노레포: 백오피스, 매장 키오스크, 홍보 사이트 | Next.js 16, shadcn/ui, FSD | [홍보 사이트](https://avocado-web-three.vercel.app/) |
-| [IEUM](https://github.com/ryushin01/IEUM) | 사진을 공유하고 메시지를 주고받는 iOS·Android SNS 앱 | Flutter, React, FSD | [보기](https://ryushin01.github.io/IEUM/) |
+| [avocado-monorepo](https://github.com/ryushin01/avocado-monorepo) | 보드게임 카페 프랜차이즈를 가정한 모노레포: 백오피스, 매장 키오스크, 홍보 사이트 | Next.js 16, shadcn/ui, TanStack Table, Sentry, FSD | [홍보 사이트](https://avocado-web-three.vercel.app/) |
+| [IEUM](https://github.com/ryushin01/IEUM) | 사진을 공유하고 메시지를 주고받는 iOS·Android SNS 앱 | Flutter, React, MSW, FSD | [보기](https://ryushin01.github.io/IEUM/) |
 | [RAON-Monorepo](https://github.com/ryushin01/RAON-Monorepo) | 작가가 연재하고 독자가 코인으로 구매해 읽는 웹소설 플랫폼 모노레포 | Next.js 16, Sass, Tiptap, FSD | 로컬 실행 |
 | [AboutMovie](https://github.com/ryushin01/AboutMovie) | 브라우저만으로 동작하는 영화 리뷰 블로그 | React, Vite, Emotion | [보기](https://about-movie-ryushin.netlify.app/) |
 | [ERS](https://github.com/ryushin01/ERS) | 금융기관·관리자용 부동산 전자등기 관리 시스템의 프론트엔드 | Next.js, TanStack Query, Storybook | [보기](https://ers-one.vercel.app/) |
-| [TerraNova](https://github.com/ryushin01/TerraNova) | 밭을 그리드로 보여 주고 정시 알람과 확인 후 급수를 처리하는 스마트팜 제어 앱 | Next.js 16, Chakra UI, Recharts | 로컬 실행 |
+| [TerraNova](https://github.com/ryushin01/TerraNova) | 밭을 그리드로 보여 주고 정시 알람과 확인 후 급수를 처리하는 스마트팜 제어 앱 | Next.js 16, Chakra UI, React Hook Form, Recharts | 로컬 실행 |
 | [connection](https://github.com/ryushin01/connection) | 위치 기반 쇼핑몰 팀 프로젝트의 프론트엔드: 카카오 로그인·지도, 카카오페이 결제 | React, Redux, styled-components | - |
