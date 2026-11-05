@@ -6,7 +6,7 @@
 
 ## 기술 스택
 
-![React, Next.js, Vue.js, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, styled-components, Redux, Pinia, Vite, Vitest, Jest, Cypress, Storybook, Flutter, Dart, Git, GitHub, GitHub Actions, Vercel, Netlify, pnpm, Yarn, Bun](https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,sass,tailwind,styledcomponents,redux,pinia,vite,vitest,jest,cypress,storybook,flutter,dart,git,github,githubactions,vercel,netlify,pnpm,yarn,bun&perline=9)
+![React, Next.js, Vue.js, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, styled-components, Redux, Pinia, Vite, Vitest, Jest, Cypress, Flutter, Dart, Git, GitHub, GitHub Actions, Vercel, Netlify, pnpm, Yarn, Bun](https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,sass,tailwind,styledcomponents,redux,pinia,vite,vitest,jest,cypress,flutter,dart,git,github,githubactions,vercel,netlify,pnpm,yarn,bun&perline=9)
 
 | 구분 | 기술 |
 |---|---|
