@@ -14,7 +14,7 @@
 | 프레임워크 | React, Next.js, Vue.js, Quasar, React Native, Flutter |
 | 상태·데이터 | TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Redux, Zustand, jotai, Vuex, Pinia, GetX, Provider, Zod |
 | 스타일 | Tailwind CSS, UnoCSS, Sass(SCSS), CSS Modules, styled-components, Emotion, vanilla-extract |
-| UI·인터랙션 | shadcn/ui, Base UI, Chakra UI, Ant Design, Recharts, Tiptap, Swiper, GSAP, Lottie |
+| UI·인터랙션 | shadcn/ui, Base UI, Chakra UI, Ant Design, Recharts, D3, Tiptap, Swiper, GSAP, Lenis, Lottie, WebGL |
 | 테스트 | Vitest, Jest, Testing Library, Playwright, Cypress, MSW, axe |
 | 문서·품질 | Storybook, Histoire, ESLint, Prettier, Biome, Stylelint, oxlint, husky, lint-staged, Sentry |
 | 서버·데이터베이스 | Netlify Functions, Netlify Identity, PostgreSQL |
@@ -31,6 +31,7 @@
 
 | 프로젝트 | 내용 | 기술 | 실행 |
 |---|---|---|---|
+| [beyond-the-quasar](https://github.com/ryushin01/beyond-the-quasar) | 군사·항법·기상 위성을 추적하고 하늘을 관측하는 위성 관제·천체 관측 앱 | Vue 3, Quasar, D3, GSAP, WebGL, UnoCSS, Histoire, FSD | [보기](https://beyond-the-quasar.vercel.app/) |
 | [avocado-monorepo](https://github.com/ryushin01/avocado-monorepo) | 보드게임 카페 프랜차이즈를 가정한 모노레포: 백오피스, 매장 키오스크, 홍보 사이트 | Next.js 16, shadcn/ui, TanStack Table, Sentry, FSD | [홍보 사이트](https://avocado-web-three.vercel.app/) |
 | [IEUM](https://github.com/ryushin01/IEUM) | 사진을 공유하고 메시지를 주고받는 iOS·Android SNS 앱 | Flutter, React, MSW, FSD | [보기](https://ryushin01.github.io/IEUM/) |
 | [RAON-Monorepo](https://github.com/ryushin01/RAON-Monorepo) | 작가가 연재하고 독자가 코인으로 구매해 읽는 웹소설 플랫폼 모노레포 | Next.js 16, Sass, Tiptap, FSD | 로컬 실행 |
