@@ -6,7 +6,7 @@
 
 ## 기술 스택
 
-![React, Next.js, Vue.js, Quasar, Expo, Flutter, Dart, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, UnoCSS, styled-components, shadcn/ui, Chakra UI, Ant Design, GSAP, D3, Swiper, Redux, Pinia, TanStack Query, React Hook Form, Zod, React Router, Vite, Turborepo, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, Storybook, Biome, Sentry, Git, GitHub, GitHub Actions, Vercel, Netlify, pnpm, Yarn, Bun](docs/images/tech-stack.svg)
+![React, Next.js, Vue.js, Quasar, Expo, Electron, Flutter, Dart, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, UnoCSS, styled-components, Emotion, vanilla-extract, shadcn/ui, Chakra UI, Ant Design, GSAP, D3, Swiper, Lottie, Redux, Pinia, TanStack Query, React Hook Form, Zod, Axios, Socket.IO, React Router, Vite, Turborepo, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, Storybook, Biome, ESLint, Prettier, Stylelint, Sentry, Lighthouse, Git, GitHub, GitHub Actions, Vercel, Netlify, pnpm, Yarn, Bun, Claude](docs/images/tech-stack.svg)
 
 | 구분 | 기술 |
 |---|---|
