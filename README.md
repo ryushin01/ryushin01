@@ -20,7 +20,7 @@
 | 문서·품질 | Storybook, Histoire, ESLint, Prettier, Biome, Stylelint, oxlint, husky, lint-staged, Sentry, Lighthouse |
 | 서버·데이터베이스 | Netlify Functions, Netlify Identity, PostgreSQL |
 | 빌드·도구 | Vite, Turbopack, React Compiler, Turborepo, pnpm, Yarn, Bun, Git, GitHub, GitHub Actions, GitHub Pages, Vercel, Netlify |
-| 협업·AI | Jira, Confluence, Claude Code, Codex |
+| 협업·AI | Jira, Confluence, Claude Code, Codex, Claude API |
 
 ## 관심사
 
@@ -35,7 +35,7 @@
 | [avocado-monorepo](https://github.com/ryushin01/avocado-monorepo) | 보드게임 카페 프랜차이즈를 가정한 모노레포: 백오피스, 매장 키오스크, 홍보 사이트 | Next.js 16, shadcn/ui, TanStack Table, Sentry, FSD | [홍보 사이트](https://avocado-web-three.vercel.app/) |
 | [beyond-the-quasar](https://github.com/ryushin01/beyond-the-quasar) | 군사·항법·기상 위성을 추적하고 하늘을 관측하는 위성 관제·천체 관측 앱 | Vue 3, Quasar, D3, GSAP, WebGL, UnoCSS, Histoire, FSD | [보기](https://beyond-the-quasar.vercel.app/) |
 | [connection](https://github.com/ryushin01/connection) | 위치 기반 쇼핑몰 팀 프로젝트의 프론트엔드: 카카오 로그인·지도, 카카오페이 결제 | React, Redux, styled-components | - |
-| [DessertLand](https://github.com/ryushin01/DessertLand) | 전 세계 디저트를 10개 언어로 소개하고 판매하는 쇼핑몰: 마우스를 따라 움직이는 손과 밀가루, 스크롤 연출, 바로 구매, Stripe 테스트 결제 | Next.js 16, Panda CSS, GSAP, WebGL, jotai, next-intl, Stripe, FSD | [보기](https://dessert-land-three.vercel.app) |
+| [DessertLand](https://github.com/ryushin01/DessertLand) | 전 세계 디저트를 10개 언어로 소개하고 판매하는 쇼핑몰: 마우스를 따라 움직이는 손과 밀가루, 스크롤 연출, 바로 구매, Stripe 테스트 결제, AI 디저트 추천 | Next.js 16, Panda CSS, GSAP, WebGL, jotai, next-intl, Stripe, Claude API, FSD | [보기](https://dessert-land-three.vercel.app) |
 | [ERS](https://github.com/ryushin01/ERS) | 금융기관·관리자용 부동산 전자등기 관리 시스템의 프론트엔드 | Next.js, TanStack Query, Storybook | [보기](https://ers-one.vercel.app/) |
 | [GAON](https://github.com/ryushin01/GAON) | 손실 압축 없이 Hi-Res FLAC만 스트리밍하는 음악 앱: TOP 100, 기기의 FLAC 재생, PC 비트 퍼펙트 출력, iOS·Android·PC 설치 | Expo, React Native, Electron, Unistyles, C, FSD | [보기](https://ryushin01.github.io/GAON/) |
 | [IEUM](https://github.com/ryushin01/IEUM) | 사진을 공유하고 메시지를 주고받는 iOS·Android SNS 앱 | Flutter, React, MSW, FSD | [보기](https://ryushin01.github.io/IEUM/) |
