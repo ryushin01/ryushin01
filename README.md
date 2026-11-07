@@ -11,7 +11,7 @@
 | 구분 | 기술 |
 |---|---|
 | 언어 | TypeScript, JavaScript, HTML, CSS, Dart, C |
-| 프레임워크 | React, Next.js, Vue.js, Quasar, React Native, Expo, Electron, Flutter |
+| 프레임워크 | React, Next.js, Vue.js, Quasar, Astro, React Native, Expo, Electron, Flutter |
 | 라우팅·다국어 | React Router, Vue Router, Expo Router, React Navigation, vue-i18n, next-intl |
 | 상태·데이터 | TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, Redux, Zustand, jotai, Vuex, Pinia, VueUse, GetX, Provider, Zod |
 | 스타일 | Tailwind CSS, UnoCSS, Sass(SCSS), CSS Modules, styled-components, Emotion, vanilla-extract, Unistyles, Panda CSS |
@@ -34,6 +34,7 @@
 |---|---|---|---|
 | [avocado-monorepo](https://github.com/ryushin01/avocado-monorepo) | 보드게임 카페 프랜차이즈를 가정한 모노레포: 백오피스, 매장 키오스크, 홍보 사이트 | Next.js 16, shadcn/ui, TanStack Table, Sentry, FSD | [홍보 사이트](https://avocado-web-three.vercel.app/) |
 | [beyond-the-quasar](https://github.com/ryushin01/beyond-the-quasar) | 군사·항법·기상 위성을 추적하고 하늘을 관측하는 위성 관제·천체 관측 앱 | Vue 3, Quasar, D3, GSAP, WebGL, UnoCSS, Histoire, FSD | [보기](https://beyond-the-quasar.vercel.app/) |
+| [ChangsunRyu](https://github.com/ryushin01/ChangsunRyu) | 소개, 경력, 기술, 개인 프로젝트를 한 페이지에 담은 개인 소개 홈페이지 | Astro 7, Playwright, axe, FSD | [보기](https://changsun-ryu.vercel.app/) |
 | [connection](https://github.com/ryushin01/connection) | 위치 기반 쇼핑몰 팀 프로젝트의 프론트엔드: 카카오 로그인·지도, 카카오페이 결제 | React, Redux, styled-components | - |
 | [DessertLand](https://github.com/ryushin01/DessertLand) | 전 세계 디저트를 10개 언어로 소개하고 판매하는 쇼핑몰: 마우스를 따라 움직이는 손과 밀가루, 스크롤 연출, 바로 구매, Stripe 테스트 결제, AI 디저트 추천 | Next.js 16, Panda CSS, GSAP, WebGL, jotai, next-intl, Stripe, Claude API, FSD | [보기](https://dessert-land-three.vercel.app) |
 | [ERS](https://github.com/ryushin01/ERS) | 금융기관·관리자용 부동산 전자등기 관리 시스템의 프론트엔드 | Next.js, TanStack Query, Storybook | [보기](https://ers-one.vercel.app/) |
