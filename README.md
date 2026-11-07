@@ -32,7 +32,7 @@
 
 | 프로젝트 | 내용 | 기술 | 실행 |
 |---|---|---|---|
-| [DessertWorld](https://github.com/ryushin01/DessertWorld) | 전 세계 디저트를 10개 언어로 소개하고 판매하는 쇼핑몰: 마우스를 따라 움직이는 인물, 스크롤 연출 | Next.js 16, Panda CSS, GSAP, WebGL, jotai, next-intl, FSD | 로컬 실행 |
+| [DessertMarket](https://github.com/ryushin01/DessertMarket) | 전 세계 디저트를 10개 언어로 소개하고 판매하는 쇼핑몰: 마우스를 따라 움직이는 인물, 스크롤 연출 | Next.js 16, Panda CSS, GSAP, WebGL, jotai, next-intl, FSD | 로컬 실행 |
 | [GAON](https://github.com/ryushin01/GAON) | 손실 압축 없이 Hi-Res FLAC만 스트리밍하는 음악 앱: TOP 100, 기기의 FLAC 재생, iOS·Android·PC 설치 | Expo, React Native, Electron, Unistyles, FSD | [보기](https://ryushin01.github.io/GAON/) |
 | [beyond-the-quasar](https://github.com/ryushin01/beyond-the-quasar) | 군사·항법·기상 위성을 추적하고 하늘을 관측하는 위성 관제·천체 관측 앱 | Vue 3, Quasar, D3, GSAP, WebGL, UnoCSS, Histoire, FSD | [보기](https://beyond-the-quasar.vercel.app/) |
 | [avocado-monorepo](https://github.com/ryushin01/avocado-monorepo) | 보드게임 카페 프랜차이즈를 가정한 모노레포: 백오피스, 매장 키오스크, 홍보 사이트 | Next.js 16, shadcn/ui, TanStack Table, Sentry, FSD | [홍보 사이트](https://avocado-web-three.vercel.app/) |
