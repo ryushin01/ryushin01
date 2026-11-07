@@ -10,7 +10,7 @@
 
 | 구분 | 기술 |
 |---|---|
-| 언어 | TypeScript, JavaScript, HTML, CSS, Dart |
+| 언어 | TypeScript, JavaScript, HTML, CSS, Dart, C |
 | 프레임워크 | React, Next.js, Vue.js, Quasar, React Native, Expo, Electron, Flutter |
 | 라우팅·다국어 | React Router, Vue Router, Expo Router, React Navigation, vue-i18n, next-intl |
 | 상태·데이터 | TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, Redux, Zustand, jotai, Vuex, Pinia, VueUse, GetX, Provider, Zod |
@@ -37,7 +37,7 @@
 | [connection](https://github.com/ryushin01/connection) | 위치 기반 쇼핑몰 팀 프로젝트의 프론트엔드: 카카오 로그인·지도, 카카오페이 결제 | React, Redux, styled-components | - |
 | [DessertLand](https://github.com/ryushin01/DessertLand) | 전 세계 디저트를 10개 언어로 소개하고 판매하는 쇼핑몰: 마우스를 따라 움직이는 손과 밀가루, 스크롤 연출, 바로 구매, Stripe 테스트 결제 | Next.js 16, Panda CSS, GSAP, WebGL, jotai, next-intl, Stripe, FSD | [보기](https://dessert-land-three.vercel.app) |
 | [ERS](https://github.com/ryushin01/ERS) | 금융기관·관리자용 부동산 전자등기 관리 시스템의 프론트엔드 | Next.js, TanStack Query, Storybook | [보기](https://ers-one.vercel.app/) |
-| [GAON](https://github.com/ryushin01/GAON) | 손실 압축 없이 Hi-Res FLAC만 스트리밍하는 음악 앱: TOP 100, 기기의 FLAC 재생, iOS·Android·PC 설치 | Expo, React Native, Electron, Unistyles, FSD | [보기](https://ryushin01.github.io/GAON/) |
+| [GAON](https://github.com/ryushin01/GAON) | 손실 압축 없이 Hi-Res FLAC만 스트리밍하는 음악 앱: TOP 100, 기기의 FLAC 재생, PC 비트 퍼펙트 출력, iOS·Android·PC 설치 | Expo, React Native, Electron, Unistyles, C, FSD | [보기](https://ryushin01.github.io/GAON/) |
 | [IEUM](https://github.com/ryushin01/IEUM) | 사진을 공유하고 메시지를 주고받는 iOS·Android SNS 앱 | Flutter, React, MSW, FSD | [보기](https://ryushin01.github.io/IEUM/) |
 | [OnlyMovie](https://github.com/ryushin01/OnlyMovie) | 시네필을 위한 영화 전문 OTT: 미수입 영화 첫 공개, 작품 검색·필터, 회원가입, 이용권, 이어 보기, 찜하기 | React, Vite, Emotion, Netlify Functions, PostgreSQL, FSD | [보기](https://only-movie-ryushin.netlify.app/) |
 | [RAON-Monorepo](https://github.com/ryushin01/RAON-Monorepo) | 작가가 웹툰과 웹소설을 연재하고 독자가 코인으로 구매해 보는 플랫폼 모노레포 | Next.js 16, Sass, Tiptap, FSD | 로컬 실행 |
