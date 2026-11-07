@@ -15,7 +15,7 @@
 | 라우팅·다국어 | React Router, Vue Router, Expo Router, React Navigation, vue-i18n, next-intl |
 | 상태·데이터 | TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, Redux, Zustand, jotai, Vuex, Pinia, VueUse, GetX, Provider, Zod |
 | 스타일 | Tailwind CSS, UnoCSS, Sass(SCSS), CSS Modules, styled-components, Emotion, vanilla-extract, Unistyles, Panda CSS |
-| UI·인터랙션 | shadcn/ui, Base UI, Chakra UI, Ant Design, Tamagui, Recharts, D3, Tiptap, Swiper, Embla Carousel, GSAP, Lenis, Lottie, Reanimated, FlashList, WebGL |
+| UI·인터랙션 | shadcn/ui, Base UI, Radix Themes, Chakra UI, Ant Design, Tamagui, Recharts, D3, Tiptap, Swiper, Embla Carousel, GSAP, Lenis, Lottie, Reanimated, FlashList, WebGL |
 | 테스트 | Vitest, Jest, Testing Library, Vue Test Utils, Playwright, Cypress, MSW, axe, fast-check |
 | 문서·품질 | Storybook, Histoire, ESLint, Prettier, Biome, Stylelint, oxlint, Steiger, husky, lint-staged, Sentry, Lighthouse |
 | 서버·데이터베이스 | Netlify Functions, Netlify Identity, PostgreSQL |
@@ -32,6 +32,7 @@
 
 | 프로젝트 | 내용 | 기술 | 실행 |
 |---|---|---|---|
+| [Ark](https://github.com/ryushin01/Ark) | 조각상·회화·유물로 신과 영웅을 살펴보는 세계 신화 도서관과 어드민: 스크롤로 모이는 자료 이미지, 신화 계열 연대기, 데모 계정 | Next.js 16, Radix Themes, Lenis, zod, Playwright, axe, FSD | [보기](https://ark-indol.vercel.app/) |
 | [avocado-monorepo](https://github.com/ryushin01/avocado-monorepo) | 보드게임 카페 프랜차이즈를 가정한 모노레포: 백오피스, 매장 키오스크, 홍보 사이트 | Next.js 16, shadcn/ui, TanStack Table, Sentry, FSD | [홍보 사이트](https://avocado-web-three.vercel.app/) |
 | [beyond-the-quasar](https://github.com/ryushin01/beyond-the-quasar) | 군사·항법·기상 위성을 추적하고 하늘을 관측하는 위성 관제·천체 관측 앱 | Vue 3, Quasar, D3, GSAP, WebGL, UnoCSS, Histoire, FSD | [보기](https://beyond-the-quasar.vercel.app/) |
 | [ChangsunRyu](https://github.com/ryushin01/ChangsunRyu) | 좋아하는 게임·애니메이션으로 개인 류창선을 소개하는 홈페이지 | Astro 7, Playwright, axe, FSD | [보기](https://changsun-ryu.vercel.app/) |
