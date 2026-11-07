@@ -40,5 +40,5 @@
 | [GAON](https://github.com/ryushin01/GAON) | 손실 압축 없이 Hi-Res FLAC만 스트리밍하는 음악 앱: TOP 100, 기기의 FLAC 재생, iOS·Android·PC 설치 | Expo, React Native, Electron, Unistyles, FSD | [보기](https://ryushin01.github.io/GAON/) |
 | [IEUM](https://github.com/ryushin01/IEUM) | 사진을 공유하고 메시지를 주고받는 iOS·Android SNS 앱 | Flutter, React, MSW, FSD | [보기](https://ryushin01.github.io/IEUM/) |
 | [OnlyMovie](https://github.com/ryushin01/OnlyMovie) | 시네필을 위한 영화 전문 OTT: 미수입 영화 첫 공개, 작품 검색·필터, 회원가입, 이용권, 이어 보기, 찜하기 | React, Vite, Emotion, Netlify Functions, PostgreSQL, FSD | [보기](https://only-movie-ryushin.netlify.app/) |
-| [RAON-Monorepo](https://github.com/ryushin01/RAON-Monorepo) | 작가가 연재하고 독자가 코인으로 구매해 읽는 웹소설 플랫폼 모노레포 | Next.js 16, Sass, Tiptap, FSD | 로컬 실행 |
+| [RAON-Monorepo](https://github.com/ryushin01/RAON-Monorepo) | 작가가 웹툰과 웹소설을 연재하고 독자가 코인으로 구매해 보는 플랫폼 모노레포 | Next.js 16, Sass, Tiptap, FSD | 로컬 실행 |
 | [TerraNova](https://github.com/ryushin01/TerraNova) | 밭을 그리드로 보여 주고 정시 알람과 확인 후 급수를 처리하는 스마트팜 제어 앱 | Next.js 16, Chakra UI, React Hook Form, Recharts | 로컬 실행 |
