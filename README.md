@@ -6,19 +6,20 @@
 
 ## 기술 스택
 
-![React, Next.js, Vue.js, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, styled-components, Redux, Pinia, Vite, Vitest, Jest, Cypress, Flutter, Dart, Git, GitHub, GitHub Actions, Vercel, Netlify, pnpm, Yarn, Bun](https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,sass,tailwind,styledcomponents,redux,pinia,vite,vitest,jest,cypress,flutter,dart,git,github,githubactions,vercel,netlify,pnpm,yarn,bun&perline=10)
+![React, React Native, Next.js, Vue.js, Quasar, Expo, Flutter, Dart, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, UnoCSS, styled-components, shadcn/ui, Chakra UI, Ant Design, GSAP, D3, Swiper, Redux, Pinia, TanStack Query, React Hook Form, Zod, React Router, Vite, Turborepo, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, Storybook, Biome, Sentry, Git, GitHub, GitHub Actions, Vercel, Netlify, pnpm, Yarn, Bun](docs/images/tech-stack.svg)
 
 | 구분 | 기술 |
 |---|---|
 | 언어 | TypeScript, JavaScript, HTML, CSS, Dart |
-| 프레임워크 | React, Next.js, Vue.js, Quasar, React Native, Flutter |
-| 상태·데이터 | TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Redux, Zustand, jotai, Vuex, Pinia, GetX, Provider, Zod |
+| 프레임워크 | React, Next.js, Vue.js, Quasar, React Native, Expo, Flutter |
+| 라우팅·다국어 | React Router, Vue Router, Expo Router, React Navigation, vue-i18n, next-intl |
+| 상태·데이터 | TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, Redux, Zustand, jotai, Vuex, Pinia, VueUse, GetX, Provider, Zod |
 | 스타일 | Tailwind CSS, UnoCSS, Sass(SCSS), CSS Modules, styled-components, Emotion, vanilla-extract |
-| UI·인터랙션 | shadcn/ui, Base UI, Chakra UI, Ant Design, Recharts, D3, Tiptap, Swiper, GSAP, Lenis, Lottie, WebGL |
-| 테스트 | Vitest, Jest, Testing Library, Playwright, Cypress, MSW, axe |
-| 문서·품질 | Storybook, Histoire, ESLint, Prettier, Biome, Stylelint, oxlint, husky, lint-staged, Sentry |
+| UI·인터랙션 | shadcn/ui, Base UI, Chakra UI, Ant Design, Tamagui, Recharts, D3, Tiptap, Swiper, Embla Carousel, GSAP, Lenis, Lottie, Reanimated, FlashList, WebGL |
+| 테스트 | Vitest, Jest, Testing Library, Vue Test Utils, Playwright, Cypress, MSW, axe, fast-check |
+| 문서·품질 | Storybook, Histoire, ESLint, Prettier, Biome, Stylelint, oxlint, husky, lint-staged, Sentry, Lighthouse |
 | 서버·데이터베이스 | Netlify Functions, Netlify Identity, PostgreSQL |
-| 빌드·도구 | Vite, Turbopack, Turborepo, pnpm, Yarn, Bun, Git, GitHub Actions, GitHub Pages, Vercel, Netlify |
+| 빌드·도구 | Vite, Turbopack, React Compiler, Turborepo, pnpm, Yarn, Bun, Git, GitHub Actions, GitHub Pages, Vercel, Netlify |
 | 협업·AI | Jira, Confluence, Claude Code, Codex |
 
 ## 관심사
