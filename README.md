@@ -17,7 +17,7 @@
 | 스타일 | Tailwind CSS, UnoCSS, Sass(SCSS), CSS Modules, styled-components, Emotion, vanilla-extract, Unistyles, Panda CSS |
 | UI·인터랙션 | shadcn/ui, Base UI, Chakra UI, Ant Design, Tamagui, Recharts, D3, Tiptap, Swiper, Embla Carousel, GSAP, Lenis, Lottie, Reanimated, FlashList, WebGL |
 | 테스트 | Vitest, Jest, Testing Library, Vue Test Utils, Playwright, Cypress, MSW, axe, fast-check |
-| 문서·품질 | Storybook, Histoire, ESLint, Prettier, Biome, Stylelint, oxlint, husky, lint-staged, Sentry, Lighthouse |
+| 문서·품질 | Storybook, Histoire, ESLint, Prettier, Biome, Stylelint, oxlint, Steiger, husky, lint-staged, Sentry, Lighthouse |
 | 서버·데이터베이스 | Netlify Functions, Netlify Identity, PostgreSQL |
 | 빌드·도구 | Vite, Turbopack, React Compiler, Turborepo, pnpm, Yarn, Bun, Git, GitHub, GitHub Actions, GitHub Pages, Vercel, Netlify |
 | 협업·AI | Jira, Confluence, Claude Code, Codex, Claude API |
@@ -43,4 +43,5 @@
 | [NGMG](https://github.com/ryushin01/NGMG) | 낚시 포인트와 맛집의 위치를 지도에 저장하고 출조와 식사를 기록하는 모바일 앱 | Expo, React Native, Tamagui, Supabase, TanStack Query, Zustand, FSD | 로컬 실행 |
 | [OnlyMovie](https://github.com/ryushin01/OnlyMovie) | 시네필을 위한 영화 전문 OTT: 미수입 영화 첫 공개, 작품 검색·필터, 회원가입, 이용권, 이어 보기, 찜하기 | React, Vite, Emotion, Netlify Functions, PostgreSQL, FSD | [보기](https://only-movie-ryushin.netlify.app/) |
 | [RAON-Monorepo](https://github.com/ryushin01/RAON-Monorepo) | 작가가 웹툰과 웹소설을 연재하고 독자가 코인으로 구매해 보는 플랫폼 모노레포 | Next.js 16, Sass, Tiptap, FSD | 로컬 실행 |
+| [swordnblade](https://github.com/ryushin01/swordnblade) | 동양 도검부터 신화 속 검까지 석고 부조처럼 진열하는 도검 쇼핑몰과 어드민: 코드로 그린 도검 일러스트, 배송 국가별 관세 계산, 소지허가 안내 | Next.js 16, shadcn/ui, Ant Design, MSW, Turborepo, Playwright, axe, FSD | 로컬 실행 |
 | [TerraNova](https://github.com/ryushin01/TerraNova) | 밭을 그리드로 보여 주고 정시 알람과 확인 후 급수를 처리하는 스마트팜 제어 앱 | Next.js 16, Chakra UI, React Hook Form, Recharts | 로컬 실행 |
