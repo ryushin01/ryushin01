@@ -6,7 +6,7 @@
 
 ## 기술 스택
 
-![React, React Native, Next.js, Vue.js, Quasar, Expo, Flutter, Dart, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, UnoCSS, styled-components, shadcn/ui, Chakra UI, Ant Design, GSAP, D3, Swiper, Redux, Pinia, TanStack Query, React Hook Form, Zod, React Router, Vite, Turborepo, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, Storybook, Biome, Sentry, Git, GitHub, GitHub Actions, Vercel, Netlify, pnpm, Yarn, Bun](docs/images/tech-stack.svg)
+![React, Next.js, Vue.js, Quasar, Expo, Flutter, Dart, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, UnoCSS, styled-components, shadcn/ui, Chakra UI, Ant Design, GSAP, D3, Swiper, Redux, Pinia, TanStack Query, React Hook Form, Zod, React Router, Vite, Turborepo, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, Storybook, Biome, Sentry, Git, GitHub, GitHub Actions, Vercel, Netlify, pnpm, Yarn, Bun](docs/images/tech-stack.svg)
 
 | 구분 | 기술 |
 |---|---|
@@ -19,7 +19,7 @@
 | 테스트 | Vitest, Jest, Testing Library, Vue Test Utils, Playwright, Cypress, MSW, axe, fast-check |
 | 문서·품질 | Storybook, Histoire, ESLint, Prettier, Biome, Stylelint, oxlint, husky, lint-staged, Sentry, Lighthouse |
 | 서버·데이터베이스 | Netlify Functions, Netlify Identity, PostgreSQL |
-| 빌드·도구 | Vite, Turbopack, React Compiler, Turborepo, pnpm, Yarn, Bun, Git, GitHub Actions, GitHub Pages, Vercel, Netlify |
+| 빌드·도구 | Vite, Turbopack, React Compiler, Turborepo, pnpm, Yarn, Bun, Git, GitHub, GitHub Actions, GitHub Pages, Vercel, Netlify |
 | 협업·AI | Jira, Confluence, Claude Code, Codex |
 
 ## 관심사
