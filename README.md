@@ -11,7 +11,7 @@
 | 구분 | 기술 |
 |---|---|
 | 언어 | TypeScript, JavaScript, HTML, CSS, Dart, C |
-| 프레임워크 | React, Next.js, Vue.js, Quasar, Astro, React Native, Expo, Electron, Flutter |
+| 프레임워크 | React, Next.js, Vue.js, Quasar, Svelte, SvelteKit, Astro, React Native, Expo, Electron, Flutter |
 | 라우팅·다국어 | React Router, TanStack Router, Vue Router, Expo Router, React Navigation, vue-i18n, next-intl |
 | 상태·데이터 | TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, Redux, Redux Toolkit, redux-saga, Zustand, jotai, Pinia, VueUse, GetX, Zod |
 | 스타일 | Tailwind CSS, UnoCSS, Sass(SCSS), CSS Modules, styled-components, Emotion, vanilla-extract, Unistyles, Panda CSS, Bulma |
@@ -46,3 +46,4 @@
 | 12 | [RIzer-The-Artifact-Archive](https://github.com/ryushin01/RIzer-The-Artifact-Archive) | 엑스칼리버·성배·여의봉 같은 세계 곳곳의 전설이나 판타지 속에 등장하는 유물 100점을 딥줌으로 확대해 보고 부분마다 달린 해설을 읽는 온라인 전시실과 큐레이터용 관리 화면: 주석 안내 투어, 본문·주석 검색, 전승 지도, 한국어·영어, 이미지 주석 편집기(W3C JSON 내보내기·가져오기), 딥줌 타일 생성, 게스트 계정 | Next.js 16, styled-components, Redux Toolkit, redux-saga, OpenSeadragon, shadcn/ui, Drizzle, Turborepo, Playwright, axe, FSD | [전시실](https://rizer-web.vercel.app/) · [어드민](https://rizer-admin.vercel.app/login) |
 | 13 | [swordnblade](https://github.com/ryushin01/swordnblade) | 동양 도검부터 신화 속 검까지 석고 부조처럼 진열하는 도검 쇼핑몰과 어드민: 코드로 그린 도검 일러스트, 배송 국가별 관세 계산, 소지허가 안내, 한국어·영어, 어드민과 데이터 공유 | Next.js 16, shadcn/ui, Ant Design, MSW, next-intl, Turborepo, Playwright, axe, FSD | [쇼핑몰](https://swordnblade.vercel.app/) · [어드민](https://swordnblade.vercel.app/admin) |
 | 14 | [TerraNova](https://github.com/ryushin01/TerraNova) | 밭을 그리드로 보여 주고 정시 알람과 확인 후 급수를 처리하는 스마트팜 제어 앱 | Next.js 16, Chakra UI, React Hook Form, Recharts | 로컬 실행 |
+| 15 | [V](https://github.com/ryushin01/V) | 책상·모니터·PC·게임기·의자·TV·오디오·콘센트를 실제 크기로 방에 배치하는 데스크·게이밍 셋업 도구: X·Y축 cm 룰러, 겹침과 동선 점검, TV 시청 거리, 전력·멀티탭 구 수·케이블 길이 계산, 키보드만으로 배치, 되돌리기, JSON 내보내기 | Svelte 5(runes), SvelteKit, SVG, IndexedDB, Storybook, Playwright, axe, FSD | 로컬 실행 |
