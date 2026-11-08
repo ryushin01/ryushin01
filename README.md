@@ -18,7 +18,7 @@
 | UI·인터랙션 | shadcn/ui, Base UI, Radix Themes, Chakra UI, Ant Design, Tamagui, Recharts, D3, three.js, Tiptap, dnd-kit, Swiper, Embla Carousel, GSAP, Motion, Lenis, Lottie, Reanimated, FlashList, WebGL, OpenSeadragon, Annotorious |
 | 테스트 | Vitest, Jest, Testing Library, Vue Test Utils, Playwright, Cypress, MSW, axe, fast-check |
 | 문서·품질 | Storybook, Histoire, ESLint, Prettier, Biome, Stylelint, oxlint, Steiger, husky, lint-staged, Sentry, PostHog, Lighthouse |
-| 서버·데이터베이스 | Netlify Functions, Netlify Identity, Netlify Database, PostgreSQL, Supabase, Drizzle ORM, PGlite, Auth.js, sharp |
+| 서버·데이터베이스 | Netlify Functions, Netlify Identity, PostgreSQL, Neon, Supabase, Drizzle ORM, PGlite, Auth.js, sharp |
 | 빌드·도구 | Vite, Turbopack, React Compiler, Turborepo, pnpm, Yarn, Bun, Git, GitHub, GitHub Actions, GitHub Pages, Vercel, Netlify |
 | 협업·AI | Jira, Confluence, Claude Code, Codex, Claude API, AI SDK |
 
@@ -40,7 +40,7 @@
 | 6 | [ERS](https://github.com/ryushin01/ERS) | 금융기관·관리자용 부동산 전자등기 관리 시스템의 프론트엔드 | Next.js, TanStack Query, Storybook | [보기](https://ers-one.vercel.app/) |
 | 7 | [GAON](https://github.com/ryushin01/GAON) | 손실 압축 없이 Hi-Res FLAC만 스트리밍하는 음악 앱: TOP 100, 기기의 FLAC 재생, PC 비트 퍼펙트 출력, iOS·Android·PC 설치 | Expo, React Native, Electron, Unistyles, C, FSD | [보기](https://ryushin01.github.io/GAON/) |
 | 8 | [IEUM](https://github.com/ryushin01/IEUM) | 사진을 공유하고 메시지를 주고받는 iOS·Android SNS 앱 | Flutter, React, MSW, FSD | [보기](https://ryushin01.github.io/IEUM/) |
-| 9 | [My-First-Gear](https://github.com/ryushin01/My-First-Gear) | PC 부품부터 DAP·자동차·시계까지 첫 장비를 고르는 기어 숍과 어드민: 브라운관 TV와 VHS 테이프 콘셉트, 직접 그린 상품 그림, PC 견적 호환성 검사, 조립 서비스, 모의 결제, 회원·후기·Q&A·마이페이지, 문의 답변, KWCAG 2.2 점검표 | Next.js 16, UnoCSS, Bulma, Drizzle, Netlify Database, Turborepo, Vitest, Storybook, Playwright, axe, FSD | 로컬 실행 |
+| 9 | [My-First-Gear](https://github.com/ryushin01/My-First-Gear) | PC 부품부터 DAP·자동차·시계까지 첫 장비를 고르는 기어 숍과 어드민: 브라운관 TV와 VHS 테이프 콘셉트, 직접 그린 상품 그림, PC 견적 호환성 검사, 조립 서비스, 모의 결제, 회원·후기·Q&A·마이페이지, 문의 답변, KWCAG 2.2 점검표 | Next.js 16, UnoCSS, Bulma, Drizzle, Neon, Turborepo, Vitest, Storybook, Playwright, axe, FSD | [쇼핑몰](https://my-first-gear.vercel.app/) · [어드민](https://my-first-gear-admin.vercel.app/) |
 | 10 | [NGMG](https://github.com/ryushin01/NGMG) | 낚시 포인트와 맛집의 위치를 지도에 저장하고 출조와 식사를 기록하는 모바일 앱 | Expo, React Native, Tamagui, Supabase, TanStack Query, Zustand, FSD | 로컬 실행 |
 | 11 | [OnlyMovie](https://github.com/ryushin01/OnlyMovie) | 시네필을 위한 영화 전문 OTT: 미수입 영화 첫 공개, 작품 검색·필터, 회원가입, 이용권, 이어 보기, 찜하기 | React, Vite, TanStack Router, Emotion, Netlify Functions, PostgreSQL, FSD | [보기](https://only-movie-ryushin.netlify.app/) |
 | 12 | [RAON-Monorepo](https://github.com/ryushin01/RAON-Monorepo) | 작가가 웹툰과 웹소설을 연재하고 독자가 코인으로 구매해 보는 플랫폼 모노레포 | Next.js 16, Sass, Tiptap, Motion, dnd-kit, AI SDK, FSD | 로컬 실행 |
