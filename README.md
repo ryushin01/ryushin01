@@ -6,20 +6,20 @@
 
 ## 기술 스택
 
-![React, Next.js, Vue.js, Quasar, Expo, Electron, Flutter, Dart, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, UnoCSS, styled-components, Emotion, vanilla-extract, shadcn/ui, Chakra UI, Ant Design, GSAP, D3, three.js, Swiper, Lottie, Redux, Pinia, TanStack Query, React Hook Form, Zod, Axios, Socket.IO, React Router, Vite, Turborepo, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, Storybook, Biome, ESLint, Prettier, Stylelint, Sentry, Lighthouse, Git, GitHub, GitHub Actions, Vercel, Netlify, pnpm, Yarn, Bun, Claude](docs/images/tech-stack.svg)
+![React, Next.js, Vue.js, Quasar, Svelte, Angular, Expo, Electron, Flutter, Dart, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, UnoCSS, styled-components, Emotion, vanilla-extract, shadcn/ui, Chakra UI, Ant Design, GSAP, D3, three.js, Swiper, Lottie, Redux, Pinia, TanStack Query, React Hook Form, Zod, Axios, Socket.IO, React Router, Vite, Turborepo, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, Storybook, Biome, ESLint, Prettier, Stylelint, Sentry, Lighthouse, Git, GitHub, GitHub Actions, Vercel, Netlify, pnpm, Yarn, Bun, Claude](docs/images/tech-stack.svg)
 
 | 구분 | 기술 |
 |---|---|
 | 언어 | TypeScript, JavaScript, HTML, CSS, Dart, C |
-| 프레임워크 | React, Next.js, Vue.js, Quasar, Svelte, SvelteKit, Astro, React Native, Expo, Electron, Flutter |
+| 프레임워크 | React, Next.js, Vue.js, Quasar, Svelte, SvelteKit, Angular, Astro, React Native, Expo, Electron, Flutter |
 | 라우팅·다국어 | React Router, TanStack Router, Vue Router, Expo Router, React Navigation, vue-i18n, next-intl |
-| 상태·데이터 | TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, Redux, Redux Toolkit, redux-saga, Zustand, jotai, Pinia, VueUse, GetX, Zod |
+| 상태·데이터 | Angular Signals, Signal Forms, RxJS, TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, Redux, Redux Toolkit, redux-saga, Zustand, jotai, Pinia, VueUse, GetX, Zod |
 | 스타일 | Tailwind CSS, UnoCSS, Sass(SCSS), CSS Modules, styled-components, Emotion, vanilla-extract, Unistyles, Panda CSS, Bulma |
 | UI·인터랙션 | shadcn/ui, Base UI, Radix Themes, Chakra UI, Ant Design, Tamagui, Recharts, D3, three.js, Tiptap, dnd-kit, Swiper, Embla Carousel, GSAP, Motion, Lenis, Lottie, Reanimated, FlashList, WebGL, OpenSeadragon, Annotorious |
 | 테스트 | Vitest, Jest, Testing Library, Vue Test Utils, Playwright, Cypress, MSW, axe, fast-check |
-| 문서·품질 | Storybook, Histoire, ESLint, Prettier, Biome, Stylelint, oxlint, Steiger, husky, lint-staged, Sentry, PostHog, Lighthouse |
-| 서버·데이터베이스 | Netlify Functions, Netlify Identity, PostgreSQL, Neon, Supabase, Drizzle ORM, PGlite, Auth.js, sharp |
-| 빌드·도구 | Vite, Turbopack, React Compiler, Turborepo, pnpm, Yarn, Bun, Git, GitHub, GitHub Actions, GitHub Pages, Vercel, Netlify |
+| 문서·품질 | Storybook, Histoire, ESLint, angular-eslint, Prettier, Biome, Stylelint, oxlint, Steiger, husky, lint-staged, Sentry, PostHog, Lighthouse |
+| 서버·데이터베이스 | Netlify Functions, Netlify Identity, PostgreSQL, IndexedDB, Neon, Supabase, Drizzle ORM, PGlite, Auth.js, sharp |
+| 빌드·도구 | Vite, Angular CLI, Service Worker(PWA), Turbopack, React Compiler, Turborepo, pnpm, Yarn, Bun, Git, GitHub, GitHub Actions, GitHub Pages, Vercel, Netlify |
 | 협업·AI | Jira, Confluence, Claude Code, Codex, Claude API, AI SDK |
 
 ## 관심사
@@ -45,7 +45,8 @@
 | 11 | [OnlyMovie](https://github.com/ryushin01/OnlyMovie) | 시네필을 위한 영화 전문 OTT: 미수입 영화 첫 공개, 수입 기획전, 작품 검색·필터, 회원가입, 이용권과 동시 시청 제한, 이어 보기, 찜하기, 공개 알림 | React, Vite, TanStack Router, Emotion, Netlify Functions, PostgreSQL, FSD | [보기](https://only-movie-ryushin.netlify.app/) |
 | 12 | [RAON-Monorepo](https://github.com/ryushin01/RAON-Monorepo) | 작가가 웹툰과 웹소설을 연재하고 독자가 코인으로 구매해 보는 플랫폼 모노레포 | Next.js 16, Sass, Tiptap, Motion, dnd-kit, AI SDK, FSD | 로컬 실행 |
 | 13 | [RIzer-The-Artifact-Archive](https://github.com/ryushin01/RIzer-The-Artifact-Archive) | 엑스칼리버·성배·여의봉 같은 세계 곳곳의 전설이나 판타지 속에 등장하는 유물 100점을 딥줌으로 확대해 보고 부분마다 달린 해설을 읽는 온라인 전시실과 큐레이터용 관리 화면: 주석 안내 투어, 본문·주석 검색, 전승 지도, 한국어·영어, 이미지 주석 편집기(W3C JSON 내보내기·가져오기), 딥줌 타일 생성, 게스트 계정 | Next.js 16, styled-components, Redux Toolkit, redux-saga, OpenSeadragon, shadcn/ui, Drizzle, Turborepo, Playwright, axe, FSD | [전시실](https://rizer-web-ryushin01.vercel.app/) · [어드민](https://rizer-admin-ryushin01.vercel.app/login) |
-| 14 | [swordnblade](https://github.com/ryushin01/swordnblade) | 동양 도검부터 신화 속 검까지 석고 부조처럼 진열하는 도검 쇼핑몰과 어드민: 코드로 그린 도검 일러스트, 배송 국가별 관세 계산, 소지허가 안내, 한국어·영어, 어드민과 데이터 공유 | Next.js 16, shadcn/ui, Ant Design, MSW, next-intl, Turborepo, Playwright, axe, FSD | [쇼핑몰](https://swordnblade-ryushin01.vercel.app/) · [어드민](https://swordnblade-ryushin01.vercel.app/admin) |
-| 15 | [TerraNova](https://github.com/ryushin01/TerraNova) | 밭을 그리드로 보여 주고 정시 알람과 확인 후 급수를 처리하는 스마트팜 제어 앱 | Next.js 16, Chakra UI, React Hook Form, Recharts | 로컬 실행 |
-| 16 | [V](https://github.com/ryushin01/V) | 책상·모니터·PC·게임기·의자·TV·오디오·콘센트를 실제 크기로 방에 배치하는 데스크·게이밍 셋업 도구: X·Y축 cm 룰러, 치수와 케이블을 드러내는 X-ray, 스크롤로 완성되는 도면, 겹침과 동선 점검, TV 시청 거리, 전력·멀티탭 구 수·케이블 길이 계산, 키보드만으로 배치, 되돌리기, JSON 내보내기 | Svelte 5(runes), SvelteKit, SVG, IndexedDB, Storybook, Playwright, axe, FSD | [보기](https://v-setup-planner-ryushin01.vercel.app/) |
-| 17 | [ZERO](https://github.com/ryushin01/ZERO) | Ark의 신과 영웅 133명을 카드로 모아 기록을 지우려는 괴물과 태초의 공허에 맞서는 웹 신화 덱빌딩 게임: 관장 영역으로 계산한 카드 효과, 같은 신화 계열의 공명과 신화 속 천적, 갈림길 지도, 괴물 18종·사건·유물, 신들의 그림이 도는 첫 화면, 도감에서 Ark로 이어지는 그림 출처, 키보드와 화면 낭독기로 플레이 | 순수 JavaScript, Vite, Vitest, Storybook, Playwright, axe, FSD(Steiger) | [보기](https://zero-ryushin01.vercel.app/) |
+| 14 | [SoG](https://github.com/ryushin01/SoG) | 물류창고 재고를 관리하는 백오피스와 창고 현장 작업자용 재고 실사 앱: 동시 수정 충돌 비교·선택, 실사 도중 입출고를 반영하는 승인 정산, 현장에서 센 수량의 실시간 반영, 오프라인 보낼함과 홈 화면 설치, 바코드 스캔, 코드로 그린 품목 사진 | Angular 22(zoneless, signals, Signal Forms), PWA, IndexedDB, Web Locks, Turborepo, Storybook, Playwright, axe, FSD(Steiger) | [백오피스](https://sog-ryushin01.vercel.app/) · [실사 앱](https://sog-ryushin01.vercel.app/count/) |
+| 15 | [swordnblade](https://github.com/ryushin01/swordnblade) | 동양 도검부터 신화 속 검까지 석고 부조처럼 진열하는 도검 쇼핑몰과 어드민: 코드로 그린 도검 일러스트, 배송 국가별 관세 계산, 소지허가 안내, 한국어·영어, 어드민과 데이터 공유 | Next.js 16, shadcn/ui, Ant Design, MSW, next-intl, Turborepo, Playwright, axe, FSD | [쇼핑몰](https://swordnblade-ryushin01.vercel.app/) · [어드민](https://swordnblade-ryushin01.vercel.app/admin) |
+| 16 | [TerraNova](https://github.com/ryushin01/TerraNova) | 밭을 그리드로 보여 주고 정시 알람과 확인 후 급수를 처리하는 스마트팜 제어 앱 | Next.js 16, Chakra UI, React Hook Form, Recharts | 로컬 실행 |
+| 17 | [V](https://github.com/ryushin01/V) | 책상·모니터·PC·게임기·의자·TV·오디오·콘센트를 실제 크기로 방에 배치하는 데스크·게이밍 셋업 도구: X·Y축 cm 룰러, 치수와 케이블을 드러내는 X-ray, 스크롤로 완성되는 도면, 겹침과 동선 점검, TV 시청 거리, 전력·멀티탭 구 수·케이블 길이 계산, 키보드만으로 배치, 되돌리기, JSON 내보내기 | Svelte 5(runes), SvelteKit, SVG, IndexedDB, Storybook, Playwright, axe, FSD | [보기](https://v-setup-planner-ryushin01.vercel.app/) |
+| 18 | [ZERO](https://github.com/ryushin01/ZERO) | Ark의 신과 영웅 133명을 카드로 모아 기록을 지우려는 괴물과 태초의 공허에 맞서는 웹 신화 덱빌딩 게임: 관장 영역으로 계산한 카드 효과, 같은 신화 계열의 공명과 신화 속 천적, 갈림길 지도, 괴물 18종·사건·유물, 신들의 그림이 도는 첫 화면, 도감에서 Ark로 이어지는 그림 출처, 키보드와 화면 낭독기로 플레이 | 순수 JavaScript, Vite, Vitest, Storybook, Playwright, axe, FSD(Steiger) | [보기](https://zero-ryushin01.vercel.app/) |
