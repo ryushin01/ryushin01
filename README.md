@@ -31,7 +31,7 @@
 
 | 번호 | 프로젝트 | 내용 | 기술 | 실행 |
 |---|---|---|---|---|
-| 1 | [Ark](https://github.com/ryushin01/Ark) | 조각상·회화·유물 자료 145점으로 49개 신화·전설 계열의 신과 영웅 300명을 살펴보는 세계 신화 도서관과 어드민: 악보를 닮은 스크롤 무대, 대륙별 신화 계열 목록, 신 찾기, 이미지 업로드, 데모 계정 | Next.js 16, Radix Themes, Supabase, Lenis, zod, Playwright, axe, FSD(Steiger) | [보기](https://ark-ryushin01.vercel.app/) · [Storybook](https://ark-ryushin01.vercel.app/storybook/index.html) |
+| 1 | [Ark](https://github.com/ryushin01/Ark) | 조각상·회화·유물 자료 271점으로 49개 신화·전설 계열의 신과 영웅, 몬스터 322명을 살펴보는 세계 신화 도서관과 어드민: 악보를 닮은 스크롤 무대, 대륙별 신화 계열 목록, 21개 신화의 신들의 계보와 가족, 신·영웅·몬스터(신수·영수) 분류와 주소로 공유하는 신 찾기, 이미지 업로드, 데모 계정 | Next.js 16, Radix Themes, Supabase, Lenis, zod, Playwright, axe, FSD(Steiger) | [보기](https://ark-ryushin01.vercel.app/) · [Storybook](https://ark-ryushin01.vercel.app/storybook/index.html) |
 | 2 | [avocado-monorepo](https://github.com/ryushin01/avocado-monorepo) | 보드게임 카페 프랜차이즈를 가정한 모노레포: 백오피스, 매장 키오스크, 홍보 사이트 | Next.js 16, shadcn/ui, TanStack Table, Sentry, PostHog, FSD | [홍보 사이트](https://avocado-web-ryushin01.vercel.app/) |
 | 3 | [beyond-the-quasar](https://github.com/ryushin01/beyond-the-quasar) | 군사·항법·기상 위성을 추적하고 하늘을 관측하는 위성 관제·천체 관측 앱: 실시간 별자리, 월식·일식 이벤트와 WebGL 블랙홀, 워프 전환으로 여는 Histoire 디자인 시스템 | Vue 3, Quasar, D3, three.js, GSAP, WebGL, UnoCSS, Histoire, Cypress, FSD | [보기](https://beyond-the-quasar-ryushin01.vercel.app/) · [Histoire](https://beyond-the-quasar-ryushin01.vercel.app/histoire/) |
 | 4 | [cERS](https://github.com/ryushin01/cERS) | 금융기관·관리자용 부동산 전자등기 관리 시스템의 프론트엔드 | Next.js 16, TanStack Query, jotai, Tailwind CSS, Storybook, Playwright, axe | [보기](https://ers-ryushin01.vercel.app/) · [Storybook](https://ers-ryushin01.vercel.app/storybook/index.html) |
