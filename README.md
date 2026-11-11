@@ -13,11 +13,11 @@
 | 언어 | TypeScript, JavaScript, HTML, CSS, Dart |
 | 프레임워크 | React, Next.js, Vue.js, Quasar, Svelte, SvelteKit, Angular, React Native, Expo, Electron, Flutter |
 | 라우팅·다국어 | React Router, TanStack Router, Vue Router, Expo Router, React Navigation, vue-i18n, next-intl |
-| 상태·데이터 | Angular Signals, Signal Forms, RxJS, TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, IndexedDB, Redux, Redux Toolkit, redux-saga, Zustand, jotai, Pinia, VueUse, GetX, Zod, Open-Meteo |
+| 상태·데이터 | OpenAPI(openapi-typescript), Angular Signals, Signal Forms, RxJS, TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, IndexedDB, Redux, Redux Toolkit, redux-saga, Zustand, jotai, Pinia, VueUse, GetX, Zod, Open-Meteo |
 | 스타일 | Tailwind CSS, UnoCSS, Sass(SCSS), CSS Modules, styled-components, Emotion, vanilla-extract, Unistyles, Panda CSS, Bulma |
-| UI·인터랙션 | shadcn/ui, Base UI, Radix Themes, Chakra UI, Ant Design, Tamagui, Recharts, D3, three.js, Tiptap, dnd-kit, Swiper, Embla Carousel, GSAP, Motion, Lenis, SSGOI, Reanimated, FlashList, WebGL, SVG, OpenSeadragon, Annotorious |
+| UI·인터랙션 | shadcn/ui, Base UI, React Aria Components, Radix Themes, Chakra UI, Ant Design, Tamagui, Recharts, D3, three.js, Tiptap, dnd-kit, Swiper, Embla Carousel, GSAP, Motion, Lenis, SSGOI, Reanimated, FlashList, WebGL, SVG, OpenSeadragon, Annotorious |
 | 테스트 | Vitest, Jest, Testing Library, Vue Test Utils, Playwright, Cypress, MSW, axe, fast-check, Maestro |
-| 문서·품질 | Storybook, Histoire, ESLint, angular-eslint, Prettier, Biome, Stylelint, oxlint, Steiger, husky, lint-staged, Sentry, PostHog, Lighthouse, Dependabot |
+| 문서·품질 | Storybook, Histoire, ESLint, angular-eslint, Prettier, Biome, Stylelint, oxlint, Steiger, husky, lint-staged, Sentry, web-vitals, PostHog, Lighthouse, Lighthouse CI, size-limit, Dependabot |
 | 빌드·도구 | Vite, Angular CLI, Service Worker(PWA), Turbopack, React Compiler, Turborepo, pnpm, Yarn, Bun, EAS Build, Git, GitHub, GitHub Actions, GitHub Pages, Vercel, Netlify |
 | 협업·AI | Jira, Confluence, CodeRabbit, Claude Code, Codex, Claude API, AI SDK |
 
@@ -36,7 +36,7 @@
 | 3 | [beyond-the-quasar](https://github.com/ryushin01/beyond-the-quasar) | 군사·항법·기상 위성을 추적하고 하늘을 관측하는 위성 관제·천체 관측 앱: 실시간 별자리, 월식·일식 이벤트와 망원경 시야, WebGL 블랙홀, 워프 전환으로 여는 Histoire 디자인 시스템 | Vue 3, Quasar, D3, three.js, GSAP, WebGL, UnoCSS, Histoire, Cypress, FSD | [보기](https://beyond-the-quasar-ryushin01.vercel.app/) · [Histoire](https://beyond-the-quasar-ryushin01.vercel.app/histoire/) |
 | 4 | [cERS](https://github.com/ryushin01/cERS) | 금융기관·관리자용 부동산 전자등기 관리 시스템의 프론트엔드 | Next.js 16, TanStack Query, jotai, Tailwind CSS, Storybook, Playwright, axe | [보기](https://ers-ryushin01.vercel.app/) · [Storybook](https://ers-ryushin01.vercel.app/storybook/index.html) |
 | 5 | [DessertLand](https://github.com/ryushin01/DessertLand) | 전 세계 디저트를 10개 언어로 소개하고 판매하는 쇼핑몰: 마우스를 따라 움직이는 손과 밀가루, 스크롤 연출, 바로 구매, Stripe 테스트 결제, AI 디저트 추천 | Next.js 16, Panda CSS, GSAP, WebGL, jotai, next-intl, Stripe, Claude API, FSD | [보기](https://dessert-land-ryushin01.vercel.app) · [Storybook](https://dessert-land-ryushin01.vercel.app/storybook/index.html) |
-| 6 | [Fanatic-Museum](https://github.com/ryushin01/Fanatic-Museum) |  |  |  |
+| 6 | [Fanatic-Museum](https://github.com/ryushin01/Fanatic-Museum) | 사이버 포뮬러·Fate·소드 아트 온라인·파이널 판타지·창세기전부터 이영도·이경영의 판타지 소설, 박성우·박진환의 만화와 웹툰, 피규어·건프라까지 29점을 전시 번호순으로 늘어놓은 서브컬처 대장정 박물관: 밀어서 넘기는 전시 띠와 스와이프 갤러리(APG 캐러셀), 크게 보기, 제목·작가 검색과 분류 필터를 주소로 공유, 작가 페이지, 1987년부터의 대장정 연표, 라이트·다크 테마, OpenAPI 정적 JSON API, 작품별 고화질 이미지 수집·WebP 변환 스크립트 | React Router 8(정적 사전 렌더링), React Aria Components, OpenAPI(openapi-typescript), Sentry, web-vitals, Lighthouse CI, size-limit, Storybook, Playwright, axe, FSD(Steiger) | [보기](https://fanatic-museum-ryushin01.vercel.app/) · [Storybook](https://fanatic-museum-ryushin01.vercel.app/storybook/index.html) |
 | 7 | [GAON](https://github.com/ryushin01/GAON) | 손실 압축 없이 Hi-Res FLAC만 스트리밍하는 음악 앱: TOP 100, 디스크를 넘기는 홈, 기기의 FLAC 재생, PC 비트 퍼펙트 출력, 소셜 로그인과 보관함 동기화, iOS·Android·PC 설치 | Expo, React Native, Electron, Unistyles, Reanimated, Supabase, C, FSD(Steiger) | [보기](https://ryushin01.github.io/GAON/) |
 | 8 | [Genesis](https://github.com/ryushin01/Genesis) | 신화에서 우주 전쟁까지 이어지는 소설 <프로젝트 제로>의 홍보 홈페이지: 태양을 향해 날아가는 불사조 스크롤 인트로, 제로 고리로 끝나는 결말, 흑백 편집 디자인 메인 | Next.js 16, three.js, WebGL, Playwright, axe, FSD(Steiger) | [보기](https://zero.ryushin0.co.kr/) · [Storybook](https://zero.ryushin0.co.kr/storybook/index.html) |
 | 9 | [IEUM](https://github.com/ryushin01/IEUM) | 사진을 공유하고 메시지를 주고받는 iOS·Android SNS 앱: 세로 전체화면 피드, 실시간 DM, 좋아요한 글 모아 보기, 다크·라이트 테마 | Flutter, GetX, React, vanilla-extract, MSW, FSD | [보기](https://ryushin01.github.io/IEUM/) |
