@@ -17,14 +17,15 @@
 | 스타일 | Tailwind CSS, UnoCSS, Sass(SCSS), CSS Modules, styled-components, Emotion, vanilla-extract, Unistyles, Panda CSS, Bulma |
 | UI·인터랙션 | shadcn/ui, Base UI, React Aria Components, Radix Themes, Chakra UI, Ant Design, Tamagui, Recharts, D3, three.js, Tiptap, dnd-kit, Swiper, Embla Carousel, GSAP, Motion, Lenis, CSS 스크롤 타임라인, SSGOI, Reanimated, FlashList, WebGL, SVG, OpenSeadragon, Annotorious |
 | 테스트 | Vitest, Jest, Testing Library, Vue Test Utils, Playwright, Cypress, MSW, axe, fast-check, Maestro |
-| 문서·품질 | Storybook, Histoire, ESLint, angular-eslint, Prettier, Biome, Stylelint, oxlint, Steiger, husky, lint-staged, Sentry, web-vitals, PostHog, Lighthouse, Lighthouse CI, size-limit, Dependabot |
+| 문서·품질 | Storybook, Histoire, ESLint, eslint-plugin-jsx-a11y, eslint-plugin-vuejs-accessibility, angular-eslint, Prettier, Biome, Stylelint, oxlint, Steiger, husky, lint-staged, Sentry, web-vitals, PostHog, Vercel Speed Insights, Lighthouse, Lighthouse CI, size-limit, Dependabot |
 | 빌드·도구 | Vite, Angular CLI, Service Worker(PWA), Turbopack, React Compiler, Turborepo, pnpm, Yarn, Bun, EAS Build, Git, GitHub, GitHub Actions, GitHub Pages, Vercel, Netlify |
 | 협업·AI | Jira, Confluence, CodeRabbit, Claude Code, Codex, Claude API, AI SDK |
 
 ## 관심사
 
 - **웹 표준과 접근성:** HTML Living Standard, WAI-ARIA, KWCAG 2.2
-- **검증:** 단위 테스트, 스토리 테스트, 프로덕션 빌드 기준 E2E
+- **검증:** 단위 테스트, 스토리 테스트, 프로덕션 빌드 기준 E2E, 코드 단계 접근성 린트
+- **운영 품질:** 번들 크기·Lighthouse 점수 예산(size-limit, Lighthouse CI), 실사용자 오류·성능 모니터링(Sentry, web-vitals)
 - **구조:** Feature-Sliced Design
 
 ## 프로젝트
@@ -44,7 +45,7 @@
 | 11 | [NewWorld](https://github.com/ryushin01/NewWorld) | 피라미드와 잉카 유적부터 아발론과 에덴 동산까지, 역사와 신화·전설 속 여행지를 탐험하고 기록하는 모바일 앱: 신화·전설·역사·사실 분류, 현장 인증 스탬프와 기념 뱃지, 근처 여행지 도착 알림, 아이디 가입과 복구 코드, 닉네임·프로필 사진, 전설의 현장 코스, 여정 계획, 여행 여권, 세계 지도, 상상 여행기 | Expo, React Native, Tamagui, Supabase, TanStack Query, Zustand, Open-Meteo, FSD | 로컬 실행 |
 | 12 | [OnlyMovie](https://github.com/ryushin01/OnlyMovie) | 시네필을 위한 영화 전문 OTT: 미수입 영화 첫 공개, 수입 기획전, 작품 검색·필터, 회원가입, 이용권과 동시 시청 제한, 이어 보기, 찜하기, 공개 알림 | React, Vite, TanStack Router, Emotion, Netlify Functions, PostgreSQL, FSD | [보기](https://only-movie-ryushin.netlify.app/) |
 | 13 | [RAON-Monorepo](https://github.com/ryushin01/RAON-Monorepo) | 작가가 웹툰과 웹소설을 연재하고 독자가 코인으로 구매해 보는 플랫폼 모노레포: 회차·완결 작품 코인 결제, 뷰어 설정과 이어 보기, 작가용 회차 에디터(버전 기록, 복선 추적, AI 문단 다듬기), EPUB·DOCX 내보내기 | Next.js 16, Sass, Tiptap, Motion, dnd-kit, AI SDK, Turborepo, FSD | 로컬 실행 |
-| 14 | [RIzer-The-Artifact-Archive](https://github.com/ryushin01/RIzer-The-Artifact-Archive) | 엑스칼리버·성배·여의봉 같은 세계 곳곳의 전설이나 판타지 속에 등장하는 유물 100점을 딥줌으로 확대해 보고 부분마다 달린 해설을 읽는 온라인 전시실과 큐레이터용 관리 화면: 주석 안내 투어, 본문·주석 검색, 전승 지도, 한국어·영어, 이미지 주석 편집기(W3C JSON 내보내기·가져오기), 딥줌 타일 생성, 게스트 계정 | Next.js 16, styled-components, Redux Toolkit, redux-saga, OpenSeadragon, shadcn/ui, Drizzle, Turborepo, Playwright, axe, FSD | [전시실](https://rizer-ryushin01.vercel.app/) · [어드민](https://rizer-admin-ryushin01.vercel.app/login) · [Storybook](https://rizer-ryushin01.vercel.app/storybook/index.html) |
+| 14 | [Rizer-The-Artifact-Archive](https://github.com/ryushin01/Rizer-The-Artifact-Archive) | 엑스칼리버·성배·여의봉 같은 세계 곳곳의 전설이나 판타지 속에 등장하는 유물 100점을 딥줌으로 확대해 보고 부분마다 달린 해설을 읽는 온라인 전시실과 큐레이터용 관리 화면: 주석 안내 투어, 본문·주석 검색, 전승 지도, 한국어·영어, 이미지 주석 편집기(W3C JSON 내보내기·가져오기), 딥줌 타일 생성, 게스트 계정 | Next.js 16, styled-components, Redux Toolkit, redux-saga, OpenSeadragon, shadcn/ui, Drizzle, Turborepo, Playwright, axe, FSD | [전시실](https://rizer-ryushin01.vercel.app/) · [어드민](https://rizer-admin-ryushin01.vercel.app/login) · [Storybook](https://rizer-ryushin01.vercel.app/storybook/index.html) |
 | 15 | [ryushin01](https://github.com/ryushin01/ryushin01) | GitHub 프로필: 소개, 기술 스택, 공개 프로젝트 목록 | Markdown, SVG | [보기](https://github.com/ryushin01) |
 | 16 | [SoG](https://github.com/ryushin01/SoG) | 물류창고 재고를 관리하는 백오피스와 창고 현장 작업자용 재고 실사 앱: 동시 수정 충돌 비교·선택과 막힌 시도까지 남기는 변경 이력, 같은 품목을 보는 사람과 수정 중 표시, 마지막 재고를 동시에 잡는 출고 지시 예약과 피킹, 실사 도중 입출고를 반영하는 승인 정산, 기기 사이 실시간 반영, 관리자·작업자 로그인과 역할, 랙·단까지 펼친 창고 도면, 오프라인 보낼함과 홈 화면 설치, 카메라 바코드 스캔, 재고·실사 차이 CSV, 코드로 그린 품목 사진 | Angular 22(zoneless, signals, Signal Forms), PWA, IndexedDB, Web Locks, Vercel Functions, Neon, PGlite, Turborepo, Storybook, Playwright, axe, FSD(Steiger) | [백오피스](https://sog-ryushin01.vercel.app/) · [실사 앱](https://sog-ryushin01.vercel.app/count/) · [Storybook](https://sog-ryushin01.vercel.app/storybook/backoffice/index.html) |
 | 17 | [swordnblade](https://github.com/ryushin01/swordnblade) | 동양 도검부터 신화 속 검까지 213점을 석고 부조처럼 진열하는 도검 쇼핑몰과 어드민: 코드로 그린 도검 일러스트, 스크롤하면 부조가 돌고 빛이 훑는 상세 갤러리, 회원가입·로그인, 배송 국가별 관세 계산, 소지허가 안내, 한국어·영어, 어드민과 데이터 공유 | Next.js 16, shadcn/ui, Ant Design, MSW, next-intl, Turborepo, Playwright, axe, FSD | [쇼핑몰](https://swordnblade-ryushin01.vercel.app/) · [어드민](https://swordnblade-ryushin01.vercel.app/admin) · [Storybook](https://swordnblade-ryushin01.vercel.app/storybook/) |
