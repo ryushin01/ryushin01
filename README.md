@@ -6,7 +6,7 @@
 
 ## 기술 스택
 
-![React, Next.js, Vue.js, Nuxt, Quasar, Svelte, Angular, Expo, Electron, Flutter, Dart, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, UnoCSS, styled-components, Emotion, vanilla-extract, shadcn/ui, Chakra UI, Ant Design, GSAP, D3, three.js, Swiper, Redux, Pinia, TanStack Query, React Hook Form, Zod, Axios, Socket.IO, PWA, React Router, Vite, Babel, Turborepo, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, Storybook, Biome, ESLint, Prettier, Stylelint, Sentry, Lighthouse, Git, GitHub, GitHub Actions, Vercel, Netlify, Docker, pnpm, Yarn, Bun, Claude, Codex, Grok](docs/images/tech-stack.svg)
+![React, Next.js, Vue.js, Nuxt, Quasar, Svelte, Angular, Expo, Electron, Flutter, Dart, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, UnoCSS, styled-components, Emotion, vanilla-extract, shadcn/ui, Chakra UI, Ant Design, GSAP, D3, three.js, Swiper, Redux, Pinia, RxJS, TanStack Query, React Hook Form, Zod, Axios, Socket.IO, PWA, React Router, Vite, Babel, Turborepo, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, Storybook, Biome, ESLint, Prettier, Stylelint, Sentry, Lighthouse, Git, GitHub, GitHub Actions, Vercel, Netlify, Docker, npm, pnpm, Yarn, Bun, Claude, Codex, Grok](docs/images/tech-stack.svg)
 
 | 구분 | 기술 |
 |---|---|
@@ -18,7 +18,7 @@
 | UI·인터랙션 | shadcn/ui, Base UI, React Aria Components, Radix Themes, Chakra UI, Ant Design, Tamagui, Recharts, D3, three.js, React Three Fiber, Tiptap, dnd-kit, Swiper, Embla Carousel, GSAP, Motion, Lenis, CSS 스크롤 타임라인, SSGOI, Reanimated, FlashList, WebGL, GLSL, SVG, OpenSeadragon, Annotorious |
 | 테스트 | Vitest, Jest, Testing Library, Vue Test Utils, Playwright, Cypress, MSW, axe, fast-check, Maestro |
 | 문서·품질 | Storybook, Histoire, ESLint, eslint-plugin-jsx-a11y, eslint-plugin-vuejs-accessibility, angular-eslint, Prettier, Biome, Stylelint, oxlint, Steiger, husky, lint-staged, Sentry, web-vitals, PostHog, Vercel Speed Insights, Lighthouse, Lighthouse CI, size-limit, Dependabot |
-| 빌드·도구 | Vite, Babel, Angular CLI, Service Worker(PWA), Turbopack, React Compiler, Turborepo, pnpm, Yarn, Bun, EAS Build, Git, GitHub, GitHub Actions, GitHub Pages, Vercel, Netlify, Docker |
+| 빌드·도구 | Vite, Babel, Angular CLI, Service Worker(PWA), Turbopack, React Compiler, Turborepo, npm, pnpm, Yarn, Bun, EAS Build, Git, GitHub, GitHub Actions, GitHub Pages, Vercel, Netlify, Docker |
 | 협업·AI | Jira, Confluence, CodeRabbit, Claude Code, Codex, Grok, Claude API, AI SDK |
 
 ## 관심사
