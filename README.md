@@ -13,12 +13,12 @@
 | 언어 | TypeScript, JavaScript, HTML, CSS, Dart |
 | 프레임워크 | React, Next.js, TanStack Start, Vue.js, Nuxt, Quasar, Svelte, SvelteKit, SolidJS, Angular, React Native, Expo, Electron, Flutter |
 | 라우팅·다국어 | React Router, TanStack Router, Solid Router, Vue Router, Expo Router, React Navigation, vue-i18n, next-intl |
-| 상태·데이터 | OpenAPI(openapi-typescript), Supabase, Angular Signals, Signal Forms, RxJS, TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, Server-Sent Events, IndexedDB, Redux, Redux Toolkit, redux-saga, Zustand, jotai, Pinia, VueUse, GetX, Zod, Open-Meteo |
+| 상태·데이터 | OpenAPI(openapi-typescript), Supabase, Angular Signals, Signal Forms, RxJS, TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, Server-Sent Events, IndexedDB, Redux, Redux Toolkit, redux-saga, Zustand, jotai, nuqs, Pinia, VueUse, GetX, Zod, es-hangul, Open-Meteo |
 | 스타일 | Tailwind CSS, UnoCSS, Sass(SCSS), CSS Modules, styled-components, Emotion, vanilla-extract, Unistyles, Panda CSS, Bulma |
-| UI·인터랙션 | shadcn/ui, Base UI, React Aria Components, Radix Themes, Chakra UI, Ant Design, Tamagui, Recharts, D3, three.js, React Three Fiber, drei, lil-gui, Tiptap, dnd-kit, Swiper, Embla Carousel, GSAP, Motion, Lenis, CSS 스크롤 타임라인, SSGOI, Reanimated, FlashList, WebGL, GLSL, Canvas 2D, SVG, OpenSeadragon, Annotorious, opentype.js, Clipper2, pdf.js |
+| UI·인터랙션 | shadcn/ui, Base UI, React Aria Components, Radix Themes, Chakra UI, Ant Design, Tamagui, Recharts, D3, MapLibre GL, three.js, React Three Fiber, drei, lil-gui, Tiptap, dnd-kit, Swiper, Embla Carousel, GSAP, Motion, Lenis, CSS 스크롤 타임라인, View Transitions API, SSGOI, Reanimated, FlashList, WebGL, GLSL, WebGPU, TSL, Canvas 2D, SVG, OpenSeadragon, Annotorious, opentype.js, Clipper2, pdf.js |
 | 테스트 | Vitest, Jest, Testing Library, Vue Test Utils, Playwright, Cypress, MSW, axe, fast-check, Maestro |
 | 문서·품질 | Storybook, Histoire, ESLint, eslint-plugin-jsx-a11y, eslint-plugin-vuejs-accessibility, angular-eslint, Prettier, Biome, Stylelint, oxlint, Steiger, husky, lint-staged, Sentry, web-vitals, PostHog, Vercel Speed Insights, Lighthouse, Lighthouse CI, size-limit, Dependabot |
-| 빌드·도구 | Vite, Babel, Angular CLI, Service Worker(PWA), Web Worker, Turbopack, React Compiler, Turborepo, npm, pnpm, Yarn, Bun, EAS Build, Git, GitHub, GitHub Actions, GitHub Pages, Vercel, Netlify, Docker |
+| 빌드·도구 | Vite, Babel, Angular CLI, Service Worker(PWA), Web Worker, Turbopack, React Compiler, sharp, exifr, ThumbHash, Turborepo, npm, pnpm, Yarn, Bun, EAS Build, Git, GitHub, GitHub Actions, GitHub Pages, Vercel, Netlify, Docker |
 | 협업·AI | Jira, Confluence, CodeRabbit, Claude Code, Codex, Grok, Claude API, AI SDK |
 
 ## 관심사
