@@ -64,7 +64,9 @@
 
 | 자료 | 저작자·라이선스 | 쓴 곳 |
 |---|---|---|
-| [Skill Icons](https://github.com/tandpfun/skill-icons) | tandpfun, MIT | 아이콘 38개와 나머지 30개의 바탕 |
+| [Skill Icons](https://github.com/tandpfun/skill-icons) | © 2022 tandpfun, MIT | 아이콘 38개와 나머지 30개의 바탕 |
 | [Simple Icons](https://github.com/simple-icons/simple-icons) | Simple Icons 기여자, CC0 1.0 | Quasar, Expo, UnoCSS, vanilla-extract, shadcn/ui, Chakra UI, Ant Design, GSAP, Swiper, TanStack Query, React Hook Form, Zod, Axios, Socket.IO, PWA, React Router, Turborepo, Testing Library, MSW, Storybook, Biome, ESLint, Prettier, Stylelint, Sentry, Lighthouse, Claude 로고 |
-| [Devicon](https://github.com/devicons/devicon) | konpa, MIT | Playwright 로고 |
-| [Lobe Icons](https://github.com/lobehub/lobe-icons) | LobeHub, MIT | Codex(OpenAI 로고), Grok 로고 |
+| [Devicon](https://github.com/devicons/devicon) | © 2015 konpa, MIT | Playwright 로고 |
+| [Lobe Icons](https://github.com/lobehub/lobe-icons) | © 2023 LobeHub, MIT | Codex(OpenAI 로고), Grok 로고 |
+
+MIT 라이선스의 저작권 표시와 허가 문구 전문은 [서드파티 고지](docs/third-party-notices.md)에 있습니다.
