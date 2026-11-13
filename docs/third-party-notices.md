@@ -4,7 +4,7 @@
 
 ## Skill Icons
 
-원본: https://github.com/tandpfun/skill-icons · 쓴 곳: 아이콘 38개와 나머지 30개의 바탕
+원본: https://github.com/tandpfun/skill-icons · 쓴 곳: 아이콘 39개와 나머지 30개의 바탕
 
 ```text
 MIT License
