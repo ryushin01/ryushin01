@@ -4,7 +4,7 @@
 
 ## Skill Icons
 
-원본: https://github.com/tandpfun/skill-icons · 쓴 곳: 아이콘 39개와 나머지 30개의 바탕
+원본: https://github.com/tandpfun/skill-icons · 쓴 곳: 아이콘 38개와 나머지 32개의 바탕
 
 ```text
 MIT License
@@ -32,7 +32,7 @@ SOFTWARE.
 
 ## Devicon
 
-원본: https://github.com/devicons/devicon · 쓴 곳: Playwright 로고
+원본: https://github.com/devicons/devicon · 쓴 곳: Playwright·Zustand 로고
 
 ```text
 The MIT License (MIT)
@@ -87,6 +87,6 @@ SOFTWARE.
 
 ## Simple Icons
 
-원본: https://github.com/simple-icons/simple-icons · 쓴 곳: 로고 27개(목록은 README의 출처)
+원본: https://github.com/simple-icons/simple-icons · 쓴 곳: 로고 28개(목록은 README의 출처)
 
 CC0 1.0 Universal(퍼블릭 도메인 기증)이라 고지 의무는 없지만 출처로 적습니다.
