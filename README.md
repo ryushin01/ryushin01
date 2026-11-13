@@ -57,3 +57,14 @@
 | 23 | [Universe_Simulator](https://github.com/ryushin01/Universe_Simulator) | EARTH_PLAN의 우주판으로, 태양계에서 우주 거대 구조까지 5단계 규모를 오가며 우주 재해를 일으키고 우주 구조물로 대응해 보는 우주 환경·재해 대응 시뮬레이터: Space Advisor를 닮은 동심 궤도선 소개 화면과 측지선 선택 표시, JPL 궤도 요소·IAU 자전축으로 계산한 행성·위성·혜성, 1시간/초부터 10억 년/초까지 흐르는 시간과 적색 거성이 지구를 삼키는 태양의 일생, 소행성·혜성 충돌과 세 가지 궤도 편향, 지구로 퍼지는 코로나 질량 방출과 오로라, 초신성·감마선 폭발·킬로노바의 오존층 피해, N체로 계산한 블랙홀·떠돌이 별 근접 통과와 따라가기, 태양을 블랙홀로 바꾸는 사고 실험, 실제 9개 유성우와 유성 폭풍, 행성 방위 요격망부터 다이슨 구·링월드·항성 엔진까지 우주 구조물 16종과 카르다쇼프 척도, 은하 1년과 안드로메다 충돌, 우주 나이에 따라 자라는 우주 거미줄과 실제 거대 구조 17곳, 결과 화면이 있는 미션 4종, 공유 링크와 저장, 한국어·영어, 홈 화면 설치와 오프라인 캐시 | SolidJS(SSR 사전 렌더링), three.js, GLSL, CSS Modules, Lightning CSS, Storybook, Playwright, axe, Service Worker(PWA), Lighthouse CI, FSD(Steiger) | [보기](https://ryushin01.github.io/Universe_Simulator/) · [Storybook](https://ryushin01.github.io/Universe_Simulator/storybook/) |
 | 24 | [V](https://github.com/ryushin01/V) | 책상·모니터·PC·게임기·의자·TV·오디오·콘센트를 실제 크기로 방에 배치하는 데스크·게이밍 셋업 도구: 실제 모델 180여 종과 모델별 일러스트, X·Y축 cm 룰러, 치수와 케이블을 드러내는 X-ray, 스크롤로 완성되는 도면, 겹침과 동선 점검, TV 시청 거리, 전력·멀티탭 구 수·케이블 길이 계산, 키보드만으로 배치, 카탈로그에 없는 내 제품 등록과 파일로 옮기기, 평면도 이미지 축척 맞추기, 서버 없는 공유 링크, 되돌리기, JSON 내보내기 | Svelte 5(runes), SvelteKit, SVG, IndexedDB, Storybook, Playwright, axe, FSD | [보기](https://v-setup-planner-ryushin01.vercel.app/) |
 | 25 | [ZERO](https://github.com/ryushin01/ZERO) | Ark의 신과 영웅, 아더 왕·아킬레우스·손오공 같은 전설의 영웅, 메두사·케르베로스 같은 괴물까지 322명을 카드로 모으고, 엑스칼리버·묠니르 같은 신화 무구를 휘둘러 기록을 지우려는 괴물과 태초의 공허에 맞서는 웹 신화 덱빌딩 게임: 성역·신역·아우터 유니버스를 지나는 전장 30곳과 이차원의 균열, 카드에 무구와 탈것·동반자를 끼우는 장착(오딘과 슬레이프니르 같은 결속), 클래스 116종으로 한 기기에서 겨루는 2인 듀얼, 신화권마다 다른 단색 배경 위에 흑백 스케치로 그린 일러스트, 관장 영역으로 계산한 카드 효과, 신화 계열 49개의 세력, 공명과 천적, 바로 데려갈 수 있는 히든 캐릭터, 서가 복원과 오늘의 신화, 키보드와 화면 낭독기로 플레이 | 순수 JavaScript, SVG, Vite, Vitest, Storybook, Playwright, axe, FSD(Steiger) | [보기](https://zero-ryushin01.vercel.app/) · [Storybook](https://zero-ryushin01.vercel.app/storybook/index.html) |
+
+## 출처
+
+기술 스택 그림(`docs/images/tech-stack.svg`)은 아래 아이콘을 한 장으로 모은 것입니다. 로고의 상표권은 각 소유자에게 있습니다.
+
+| 자료 | 저작자·라이선스 | 쓴 곳 |
+|---|---|---|
+| [Skill Icons](https://github.com/tandpfun/skill-icons) | tandpfun, MIT | 아이콘 38개와 나머지 30개의 바탕 |
+| [Simple Icons](https://github.com/simple-icons/simple-icons) | Simple Icons 기여자, CC0 1.0 | Quasar, Expo, UnoCSS, vanilla-extract, shadcn/ui, Chakra UI, Ant Design, GSAP, Swiper, TanStack Query, React Hook Form, Zod, Axios, Socket.IO, PWA, React Router, Turborepo, Testing Library, MSW, Storybook, Biome, ESLint, Prettier, Stylelint, Sentry, Lighthouse, Claude 로고 |
+| [Devicon](https://github.com/devicons/devicon) | konpa, MIT | Playwright 로고 |
+| [Lobe Icons](https://github.com/lobehub/lobe-icons) | LobeHub, MIT | Codex(OpenAI 로고), Grok 로고 |
