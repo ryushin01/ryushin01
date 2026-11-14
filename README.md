@@ -13,7 +13,7 @@
 | 언어 | TypeScript, JavaScript, HTML, CSS, Dart |
 | 프레임워크 | React, Next.js, TanStack Start, Vue.js, Nuxt, Quasar, Svelte, SvelteKit, SolidJS, Angular, React Native, Expo, Electron, Flutter |
 | 라우팅·다국어 | React Router, TanStack Router, Solid Router, Vue Router, Expo Router, React Navigation, vue-i18n, next-intl |
-| 상태·데이터 | OpenAPI(openapi-typescript), Supabase, Neon(PostgreSQL), Hyperdrive, Angular Signals, Signal Forms, RxJS, TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, Server-Sent Events, IndexedDB, Redux, Redux Toolkit, redux-saga, Zustand, jotai, nuqs, Pinia, VueUse, GetX, Zod, es-hangul, Open-Meteo |
+| 상태·데이터 | OpenAPI(openapi-typescript), Supabase, Neon(PostgreSQL), Hyperdrive, Angular Signals, Signal Forms, RxJS, TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, Server-Sent Events, IndexedDB, Redux, Redux Toolkit, redux-saga, Zustand, jotai, nuqs, Pinia, VueUse, GetX, Zod, es-hangul, Open-Meteo, Stripe |
 | 스타일 | Tailwind CSS, UnoCSS, Sass(SCSS), CSS Modules, styled-components, Emotion, vanilla-extract, Unistyles, Panda CSS, Bulma |
 | UI·인터랙션 | shadcn/ui, Base UI, React Aria Components, Radix Themes, Chakra UI, Ant Design, Tamagui, Recharts, D3, MapLibre GL, three.js, React Three Fiber, drei, lil-gui, Tiptap, dnd-kit, Swiper, Embla Carousel, GSAP, Motion, Lenis, CSS 스크롤 타임라인, View Transitions API, SSGOI, Reanimated, FlashList, WebGL, GLSL, WebGPU, TSL, Canvas 2D, OffscreenCanvas, SVG, OpenSeadragon, Annotorious, opentype.js, Clipper2, pdf.js |
 | 테스트 | Vitest, Jest, Testing Library, React Three Test Renderer, Vue Test Utils, Playwright, Cypress, MSW, axe, fast-check, Maestro |
