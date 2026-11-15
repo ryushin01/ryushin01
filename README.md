@@ -32,9 +32,9 @@
 
 <!-- 프로젝트 이름 뒤의 버전 "(v1.2.3)"은 GitHub Actions(.github/workflows/versions.yml)가 30분마다 각 저장소의 package.json·릴리스에서 읽어 고칩니다. 새 줄은 이름만 적어도 되고, 버전을 손으로 고치지 않아도 됩니다. -->
 
-<!-- 머리글 "프로젝트" 앞뒤의 &nbsp;는 이름 칸의 최소 폭을 넓혀, Chrome에서 이름이 가장 긴 줄(Universe_Simulator)의 아이콘만 따로 줄바꿈되지 않게 하려는 것입니다. -->
+<!-- 머리글 "프로젝트" 앞뒤의 &nbsp;와 글자 사이의 &#8288;(줄바꿈 금지)는 이름 칸의 최소 폭을 넓혀, 이름이 가장 긴 줄(Universe_Simulator)에서 아이콘만 따로 줄바꿈되지 않게 하려는 것입니다. GitHub가 아이콘에 max-width: 100%를 붙여 칸 폭 계산에서 아이콘 폭이 빠지기 때문입니다. -->
 
-| 번호 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프로젝트&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 내용 | 기술 | 실행 |
+| 번호 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프&#8288;로&#8288;젝&#8288;트&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 내용 | 기술 | 실행 |
 |---|---|---|---|---|
 | 1 | <img src="docs/images/projects/Ark.png" width="20" height="20" alt="" align="absmiddle">&nbsp;[Ark](https://github.com/ryushin01/Ark) (v0.22.0) | 조각상·회화·유물 자료 330점으로 여러 문명권의 49개 신화·전설 계열에서 신과 영웅, 몬스터 322명을 살펴보는 세계 신화 도서관과 어드민: 악보를 닮은 스크롤 무대, 신화 속 유물 74점을 힘과 대가로 전시하는 비밀 전시실, 대륙별 신화 계열 목록, 21개 신화의 신들의 계보와 가족, 탈것·동반자, 신·영웅·몬스터(신수·영수) 분류와 주소로 공유하는 신 찾기, 계층을 따라 움직이는 화면 전환과 뒤로 가면 보던 자리로 돌아오는 스크롤, 이미지 업로드, 데모 계정 | Next.js 16, Radix Themes, Supabase, Lenis, SSGOI, zod, Playwright, axe, FSD(Steiger) | [보기](https://ark-ryushin01.vercel.app/) · [Storybook](https://ark-ryushin01.vercel.app/storybook/index.html) |
 | 2 | <img src="docs/images/projects/avocado-monorepo.png" width="20" height="20" alt="" align="absmiddle">&nbsp;[avocado-monorepo](https://github.com/ryushin01/avocado-monorepo) (v0.1.0) | 보드게임 카페 프랜차이즈를 가정한 모노레포: 백오피스, 매장 키오스크, 홍보 사이트(스크롤하면 화면 가득 펼쳐지는 유형 사진, 화면을 고정한 채 옆으로 걷는 매장 둘러보기) | Next.js 16, shadcn/ui, TanStack Table, Sentry, PostHog, FSD | [홍보 사이트](https://avocado-web-ryushin01.vercel.app/) |
