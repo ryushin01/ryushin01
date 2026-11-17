@@ -6,7 +6,7 @@
 
 ## 기술 스택
 
-![React, Next.js, Vue.js, Nuxt, Quasar, Svelte, SolidJS, Angular, Expo, Electron, Flutter, Dart, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, UnoCSS, styled-components, Emotion, vanilla-extract, shadcn/ui, Radix UI, Chakra UI, Ant Design, GSAP, D3, three.js, Swiper, Redux, Pinia, Zustand, RxJS, TanStack Query, React Hook Form, Zod, Axios, Socket.IO, PWA, React Router, Vite, Babel, Turborepo, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, Storybook, Biome, ESLint, Prettier, Stylelint, Sentry, Lighthouse, GitHub, GitHub Actions, Vercel, Netlify, Cloudflare, Docker, npm, pnpm, Yarn, Bun, Claude, Codex, Grok](docs/images/tech-stack.svg)
+![React, Next.js, Vue.js, Nuxt, Quasar, Svelte, SolidJS, Angular, Expo, Electron, Flutter, Dart, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, UnoCSS, styled-components, Emotion, vanilla-extract, shadcn/ui, Radix UI, Chakra UI, Ant Design, GSAP, D3, three.js, Swiper, Redux, Pinia, Zustand, RxJS, TanStack Query, React Hook Form, Zod, Axios, Socket.IO, PWA, React Router, Vite, Babel, Turborepo, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, Storybook, Biome, ESLint, Prettier, Stylelint, Sentry, Lighthouse, Nx, GitHub Actions, Vercel, Netlify, Cloudflare, Docker, npm, pnpm, Yarn, Bun, Claude, Codex, Grok](docs/images/tech-stack.svg)
 
 | 구분 | 기술 |
 |---|---|
@@ -18,7 +18,7 @@
 | UI·인터랙션 | shadcn/ui, Base UI, React Aria Components, Radix Themes, Chakra UI, Ant Design, Tamagui, Recharts, D3, MapLibre GL, three.js, React Three Fiber, drei, lil-gui, Tiptap, dnd-kit, Swiper, Embla Carousel, GSAP, Motion, Lenis, CSS 스크롤 타임라인, View Transitions API, CSS Font Loading API, SSGOI, Reanimated, FlashList, WebGL, GLSL, WebGPU, TSL, Canvas 2D, OffscreenCanvas, SVG, OpenSeadragon, Annotorious, opentype.js, Clipper2, pdf.js |
 | 테스트 | Vitest, Jest, Testing Library, React Three Test Renderer, Vue Test Utils, Playwright, Cypress, MSW, axe, fast-check, Maestro |
 | 문서·품질 | Storybook, Histoire, ESLint, eslint-plugin-jsx-a11y, eslint-plugin-vuejs-accessibility, eslint-plugin-solid, angular-eslint, Prettier, Biome, Stylelint, oxlint, Steiger, JSON-LD(schema.org), husky, lint-staged, Sentry, web-vitals, PostHog, Vercel Speed Insights, Lighthouse, Lighthouse CI, size-limit, Dependabot |
-| 빌드·도구 | Vite, Lightning CSS, Babel, Angular CLI, Service Worker(PWA, Web Push), Web Worker, Compression Streams API, Turbopack, React Compiler, sharp, glTF Transform(meshopt), exifr, image-size, ThumbHash, subset-font(HarfBuzz), fontTools, Turborepo, npm, pnpm, Yarn, Bun, EAS Build, Git, GitHub, GitHub Actions, GitHub Pages, Vercel, Netlify, Cloudflare Workers, Docker |
+| 빌드·도구 | Vite, Lightning CSS, Babel, Angular CLI, Service Worker(PWA, Web Push), Web Worker, Compression Streams API, Turbopack, React Compiler, sharp, glTF Transform(meshopt), exifr, image-size, ThumbHash, subset-font(HarfBuzz), fontTools, Nx, Turborepo, npm, pnpm, Yarn, Bun, EAS Build, Git, GitHub, GitHub Actions, GitHub Pages, Vercel, Netlify, Cloudflare Workers, Docker |
 | 협업·AI | Jira, Confluence, CodeRabbit, Claude Code, Codex, Grok, Claude API, AI SDK |
 
 ## 관심사
