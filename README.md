@@ -79,6 +79,5 @@
 | Game-icons.net [“Orbit”](https://game-icons.net/1x1/skoll/orbit.html)(Skoll), [“Eclipse flare”](https://game-icons.net/1x1/lorc/eclipse-flare.html)·[“Treasure map”](https://game-icons.net/1x1/lorc/treasure-map.html)(Lorc) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), 색을 칠함 | Genesis, NewWorld, TerraNova |
 | [ESO/M. Kornmesser](https://www.eso.org/public/images/eso1122a/) 퀘이사 ULAS J1120+0641 상상도 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), 정사각형으로 자름 | beyond-the-quasar |
 | Flaticon [“Trophy”](https://www.flaticon.com/free-icon/trophy_3865212)(Slidicon), [“Letter v”](https://www.flaticon.com/free-icon/letter-v_9687654)·[“Letter r”](https://www.flaticon.com/free-icon/letter-r_9687622)(arnikahossain) | [Flaticon 무료 라이선스](https://www.flaticon.com/legal)(저작자 표기) | My-First-Gear, V, Rizer-The-Artifact-Archive |
-| ethanlgraphics AV 로고 | 저작자의 허락을 받아 실음, AV 로고에서 A만 떼어 냄 | Ark |
 
 MIT·Apache 2.0 라이선스의 저작권 표시와 허가 문구 전문은 [서드파티 고지](docs/third-party-notices.md)에 있습니다.
