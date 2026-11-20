@@ -71,7 +71,7 @@
 | [Devicon](https://github.com/devicons/devicon) | © 2015 konpa, MIT | Playwright·Zustand 로고 |
 | [Lobe Icons](https://github.com/lobehub/lobe-icons) | © 2023 LobeHub, MIT | Codex(OpenAI 로고), Grok 로고 |
 
-프로젝트 표의 아이콘(`docs/images/projects`)은 각 프로젝트의 홈 화면 아이콘을 줄인 것입니다. 바깥 자료로 만든 아이콘은 아래와 같고, 나머지(cERS, GAON, KAO, LuminousKR, Original_Universe, SoG, swordnblade, TheCrimsonArc, ZERO)는 직접 그렸습니다. 이 프로필 저장소(ryushin01)의 아이콘은 포트폴리오 사이트의 ZERO 로고(흰색)를 검은 바탕에 얹은 것입니다.
+프로젝트 표의 아이콘(`docs/images/projects`)은 각 프로젝트의 홈 화면 아이콘을 줄인 것입니다. 바깥 자료로 만든 아이콘은 아래와 같고, 나머지(cERS, GAON, KAO, LuminousKR, Original_Universe, SoG, swordnblade, TheCrimsonArc, ZERO)는 직접 그렸습니다. 이 프로필 저장소(ryushin01)의 아이콘은 포트폴리오 사이트의 ZERO 로고를 흰 바탕에 검은색으로 뒤집은 것입니다.
 
 | 자료 | 저작자·라이선스 | 쓴 곳 |
 |---|---|---|
