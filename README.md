@@ -75,7 +75,8 @@
 
 | 자료 | 저작자·라이선스 | 쓴 곳 |
 |---|---|---|
-| [Noto Emoji](https://github.com/googlefonts/noto-emoji) “Avocado”, “Soft Ice Cream” | Google, Apache 2.0 | avocado-monorepo, DessertLand |
+| [Noto Emoji](https://github.com/googlefonts/noto-emoji) “Soft Ice Cream” | Google, Apache 2.0 | DessertLand |
+| [Flaticon](https://www.flaticon.com/) “Avocado” | [amonrat rungreangfangsai](https://www.flaticon.com/authors/amonrat-rungreangfangsai), Flaticon 라이선스(출처 표기) | avocado-monorepo |
 | [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) “Infinity” | © Microsoft Corporation, MIT | IEUM |
 | [Flat Color Icons](https://github.com/icons8/flat-color-icons) “Library” | Icons8, MIT | Fanatic-Museum |
 | Game-icons.net [“Orbit”](https://game-icons.net/1x1/skoll/orbit.html)(Skoll), [“Eclipse flare”](https://game-icons.net/1x1/lorc/eclipse-flare.html)·[“Treasure map”](https://game-icons.net/1x1/lorc/treasure-map.html)(Lorc) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), 색을 칠함 | Genesis, NewWorld, TerraNova |
