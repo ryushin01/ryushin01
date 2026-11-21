@@ -11,7 +11,7 @@ AI 코딩 에이전트(Codex, Claude Code 등)가 이 저장소에서 일할 때
 
 ```
 README.md                    프로필 본문
-docs/images/tech-stack.svg   기술 스택 그림(아이콘 70개)
+docs/images/tech-stack.svg   기술 스택 그림
 docs/images/projects/*.png   프로젝트 표 아이콘(저장소 이름과 같은 파일 이름)
 docs/third-party-notices.md  서드파티 고지(MIT·Apache 2.0 등 전문)
 scripts/versions.mjs         프로젝트 표의 버전 자동 갱신
@@ -46,7 +46,7 @@ scripts/versions.mjs         프로젝트 표의 버전 자동 갱신
 
 ### 기술 스택 그림(`docs/images/tech-stack.svg`)
 
-- 아이콘 **70개**를 아래 기술 표의 분류 순서(언어 → 프레임워크 → 라우팅·다국어 → 상태·데이터 → 스타일 → UI·인터랙션 → 테스트 → 문서·품질 → 빌드·도구 → 협업·AI)대로 놓습니다.
+- 아이콘을 아래 기술 표의 분류 순서(언어 → 프레임워크 → 라우팅·다국어 → 상태·데이터 → 스타일 → UI·인터랙션 → 테스트 → 문서·품질 → 빌드·도구 → 협업·AI)대로 놓습니다.
 - 아이콘을 더하거나 빼면 세 곳을 함께 맞춥니다.
   1. README 그림의 대체 텍스트(`![…](docs/images/tech-stack.svg)`, 아이콘 이름을 그림 순서대로 쉼표로).
   2. SVG 최상위의 `role="img"`·`aria-label`과 `<title>`(같은 목록), 아이콘마다 감싼 `<g>`의 `<title>`.
