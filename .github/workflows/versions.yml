@@ -35,8 +35,8 @@ jobs:
             echo "바뀐 버전이 없습니다."
             exit 0
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "ryushin0"
+          git config user.email "141554987+ryushin01@users.noreply.github.com"
           git commit -m "docs: 프로젝트 버전 갱신" README.md
           git pull --rebase
           git push
