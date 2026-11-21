@@ -31,7 +31,7 @@ scripts/versions.mjs         프로젝트 표의 버전 자동 갱신
   - README 표가 깨지지 않는지(줄마다 `| 번호 | 프로젝트 | 내용 | 기술 | 실행 |` 5칸 유지, 브랜치의 README를 GitHub에서 열어 확인).
   - 기술 스택 그림을 고쳤으면 아래 5절의 세 곳(그림 순서, 대체 텍스트, 출처 표)이 서로 맞는지.
   - 링크(데모·저장소·출처)가 200인지.
-- `versions.yml`: 30분마다, `README.md`가 main에 푸시될 때, 손으로 실행할 때 돌아 바뀐 버전만 `docs: 프로젝트 버전 갱신`으로 main에 커밋합니다(github-actions 봇).
+- `versions.yml`: 30분마다, `README.md`가 main에 푸시될 때, 손으로 실행할 때 돌아 바뀐 버전만 `docs: 프로젝트 버전 갱신`으로 main에 커밋합니다(작성자는 ryushin01로 설정).
 
 ## 5. 내용 규칙
 
@@ -62,10 +62,12 @@ scripts/versions.mjs         프로젝트 표의 버전 자동 갱신
 
 ## 6. Git·PR
 
-- **흐름: GitHub Flow.** `main`에 직접 커밋·푸시하지 않습니다(예외: `versions.yml` 봇의 `docs: 프로젝트 버전 갱신`). 최신 `main`에서 브랜치를 만들어 PR로만 병합합니다. 표준과 다른 점: 최근 사람 커밋 일부(예: `docs: 출처 표에서 Ark 로고 줄 빼기`)가 PR 없이 main에 올라갔습니다. 앞으로는 PR로 올립니다.
+- **흐름: GitHub Flow.** `main`에 직접 커밋·푸시하지 않습니다(예외: `versions.yml` 워크플로(작성자 ryushin01)의 `docs: 프로젝트 버전 갱신`). 최신 `main`에서 브랜치를 만들어 PR로만 병합합니다. 표준과 다른 점: 최근 사람 커밋 일부(예: `docs: 출처 표에서 Ark 로고 줄 빼기`)가 PR 없이 main에 올라갔습니다. 앞으로는 PR로 올립니다.
 - **브랜치 이름:** `docs/…`가 대부분입니다(예: `docs/terranova-1.5.0`, `docs/avocado-logo`). 스크립트·워크플로는 `chore/…`, 그 밖에 `feat/…`, `fix/…`, `refactor/…`, `test/…`, `release/…`.
 - **커밋 메시지: Conventional Commits.** `<타입>: <한국어 요약>`. 실제 예: `docs: TerraNova 1.5.0 소개 갱신 (#157)`, `docs: ryushin01 아이콘을 흰 바탕 ZERO 로고로 교체 (#159)`. 다른 저장소의 버전을 소개할 때는 요약 안에 그 버전을 씁니다.
-  - 커밋 끝에 `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`, PR 본문 끝에 `🤖 Generated with [Claude Code](https://claude.com/claude-code)`.
+- **기여자는 ryushin01만 남깁니다(2026-11-21 사용자 결정).** 커밋 작성자는 늘 `ryushin0 <141554987+ryushin01@users.noreply.github.com>`입니다. 이 저장소는 백엔드 코드가 없으므로 `Co-Authored-By` 줄을 넣지 않습니다(백엔드 저장소만 `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`). PR 본문 끝에는 `🤖 Generated with [Claude Code](https://claude.com/claude-code)`를 적습니다.
+  - GitHub Actions가 커밋하는 워크플로는 작성자를 ryushin01로 설정합니다(`github-actions[bot]` 금지): `versions.yml`의 `git config user.name/user.email`.
+  - Dependabot PR은 그대로 병합하지 않고, 같은 변경을 ryushin01 커밋으로 다시 만들어 PR로 병합합니다.
 - **버전·변경 기록:** 이 저장소는 버전·`CHANGELOG.md`·릴리스가 없습니다(Semantic Versioning·Keep a Changelog 대상 아님).
 - 병합은 squash(제목 끝 `(#번호)`). 검사 CI가 없으므로 5절을 확인한 뒤 병합합니다. CodeRabbit 리뷰는 기다리지 않습니다.
 - 공유 파일이라 여러 세션·에이전트가 같이 고칩니다. 저장소별 작업이 끝난 뒤 한 곳에서 모아 고치고, 열린 PR과 겹치는 줄은 피합니다. README 푸시마다 버전 워크플로가 돌므로 고칠 것을 모아 한 번에 올립니다.
