@@ -69,7 +69,7 @@
 | [Devicon](https://github.com/devicons/devicon) | © 2015 konpa, MIT | Playwright·Zustand 로고 |
 | [Lobe Icons](https://github.com/lobehub/lobe-icons) | © 2023 LobeHub, MIT | Codex(OpenAI 로고), Grok 로고 |
 
-프로젝트 표의 아이콘(`docs/images/projects`)은 각 프로젝트의 홈 화면 아이콘을 줄인 것입니다. 바깥 자료로 만든 아이콘은 아래와 같고, 나머지(cERS, GAON, KAO, LuminousKR, Original_Universe, SoG, swordNblade, TheCrimsonArc, ZERO)는 직접 그렸습니다. 이 프로필 저장소(ryushin01)의 아이콘은 포트폴리오 사이트의 ZERO 로고를 흰 바탕에 검은색으로 뒤집은 것입니다.
+프로젝트 표의 아이콘(`docs/images/projects`)은 각 프로젝트의 홈 화면 아이콘을 줄인 것입니다. 바깥 자료로 만든 아이콘은 아래와 같고, 나머지(cERS, GAON, KAO, LuminousKR, Original_Universe, SoG, swordNblade, TheCrimsonArc, ZERO)는 직접 그렸습니다. 이 프로필 저장소(ryushin01)의 아이콘은 RAON-Monorepo의 왕관 아이콘을 줄인 것입니다.
 
 | 자료 | 저작자·라이선스 | 쓴 곳 |
 |---|---|---|
@@ -79,5 +79,6 @@
 | Game-icons.net [“Orbit”](https://game-icons.net/1x1/skoll/orbit.html)(Skoll), [“Eclipse flare”](https://game-icons.net/1x1/lorc/eclipse-flare.html)·[“Treasure map”](https://game-icons.net/1x1/lorc/treasure-map.html)(Lorc) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), 색을 칠함 | Genesis, NewWorld, TerraNova |
 | [ESO/M. Kornmesser](https://www.eso.org/public/images/eso1122a/) 퀘이사 ULAS J1120+0641 상상도 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), 정사각형으로 자름 | beyond-the-quasar |
 | Flaticon [“Trophy”](https://www.flaticon.com/free-icon/trophy_3865212)(Slidicon), [“Letter v”](https://www.flaticon.com/free-icon/letter-v_9687654)·[“Letter r”](https://www.flaticon.com/free-icon/letter-r_9687622)(arnikahossain) | [Flaticon 무료 라이선스](https://www.flaticon.com/legal)(저작자 표기) | My-First-Gear, V, Rizer-The-Artifact-Archive |
+| Flaticon [“Crown”](https://www.flaticon.com/free-icon/crown_2665606)([Magnific](https://www.flaticon.com/free-icons/crown), RAON-Monorepo의 왕관 아이콘) | [Flaticon 무료 라이선스](https://www.flaticon.com/legal)(저작자 표기) — Crown icons created by Magnific - Flaticon | ryushin01 |
 
 MIT·Apache 2.0 라이선스의 저작권 표시와 허가 문구 전문은 [서드파티 고지](docs/third-party-notices.md)에 있습니다.
