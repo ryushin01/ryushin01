@@ -4,7 +4,7 @@
 
 ## Skill Icons
 
-원본: https://github.com/tandpfun/skill-icons · 쓴 곳: 아이콘 42개와 나머지 34개의 바탕
+원본: https://github.com/tandpfun/skill-icons · 쓴 곳: 아이콘 41개와 나머지 35개의 바탕
 
 ```text
 MIT License
@@ -32,7 +32,7 @@ SOFTWARE.
 
 ## Devicon
 
-원본: https://github.com/devicons/devicon · 쓴 곳: Playwright·Zustand 로고
+원본: https://github.com/devicons/devicon · 쓴 곳: Playwright·Zustand·React Native 로고
 
 ```text
 The MIT License (MIT)

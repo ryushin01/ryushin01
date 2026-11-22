@@ -6,7 +6,7 @@
 
 ## 기술 스택
 
-![HTML, CSS, JavaScript, TypeScript, Dart, React, Next.js, Vue.js, Nuxt, Quasar, Svelte, SolidJS, Angular, Expo, Electron, Flutter, NestJS, Fastify, React Router, Supabase, PostgreSQL, RxJS, TanStack Query, React Hook Form, Axios, Socket.IO, Redux, Zustand, Pinia, Zod, Tailwind CSS, UnoCSS, Sass, styled-components, Emotion, vanilla-extract, shadcn/ui, Radix UI, Chakra UI, Ant Design, D3, three.js, Swiper, GSAP, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, Storybook, ESLint, Prettier, Biome, Stylelint, Sentry, Lighthouse, Vite, Babel, PWA, Nx, Turborepo, npm, pnpm, Yarn, Bun, Git, GitHub, GitHub Actions, Vercel, Netlify, Cloudflare, Docker, Claude, Codex, Grok](docs/images/tech-stack.svg)
+![HTML, CSS, JavaScript, TypeScript, Dart, React, Next.js, Vue.js, Nuxt, Quasar, Svelte, SolidJS, Angular, React Native, Expo, Electron, Flutter, NestJS, Fastify, React Router, PostgreSQL, RxJS, TanStack Query, React Hook Form, Axios, Socket.IO, Redux, Zustand, Pinia, Zod, Tailwind CSS, UnoCSS, Sass, styled-components, Emotion, vanilla-extract, shadcn/ui, Radix UI, Chakra UI, Ant Design, D3, three.js, Swiper, GSAP, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, Storybook, ESLint, Prettier, Biome, Stylelint, Sentry, Lighthouse, Vite, Babel, PWA, Nx, Turborepo, npm, pnpm, Yarn, Bun, Git, GitHub, GitHub Actions, Vercel, Netlify, Cloudflare, Docker, Claude, Codex, Grok](docs/images/tech-stack.svg)
 
 | 구분 | 기술 |
 |---|---|
@@ -67,9 +67,9 @@
 
 | 자료 | 저작자·라이선스 | 쓴 곳 |
 |---|---|---|
-| [Skill Icons](https://github.com/tandpfun/skill-icons) | © 2022 tandpfun, MIT | 아이콘 42개와 나머지 34개의 바탕 |
+| [Skill Icons](https://github.com/tandpfun/skill-icons) | © 2022 tandpfun, MIT | 아이콘 41개와 나머지 35개의 바탕 |
 | [Simple Icons](https://github.com/simple-icons/simple-icons) | Simple Icons 기여자, CC0 1.0 | Quasar, Expo, Fastify, UnoCSS, vanilla-extract, shadcn/ui, Radix UI, Chakra UI, Ant Design, GSAP, Swiper, TanStack Query, React Hook Form, Zod, Axios, Socket.IO, PWA, React Router, Nx, Turborepo, Testing Library, MSW, Storybook, Biome, ESLint, Prettier, Stylelint, Sentry, Lighthouse, Claude 로고 |
-| [Devicon](https://github.com/devicons/devicon) | © 2015 konpa, MIT | Playwright·Zustand 로고 |
+| [Devicon](https://github.com/devicons/devicon) | © 2015 konpa, MIT | Playwright·Zustand·React Native 로고 |
 | [Lobe Icons](https://github.com/lobehub/lobe-icons) | © 2023 LobeHub, MIT | Codex(OpenAI 로고), Grok 로고 |
 
 프로젝트 표의 아이콘(`docs/images/projects`)은 각 프로젝트의 홈 화면 아이콘을 줄인 것입니다. 바깥 자료로 만든 아이콘은 아래와 같고, 나머지(cERS, GAON, KAO, LuminousKR, Original_Universe, SoG, swordNblade, TheCrimsonArc, ZERO)는 직접 그렸습니다. 이 프로필 저장소(ryushin01)의 아이콘은 RAON-Monorepo의 왕관 아이콘을 줄인 것입니다.
