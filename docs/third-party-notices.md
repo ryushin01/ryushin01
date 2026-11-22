@@ -32,7 +32,7 @@ SOFTWARE.
 
 ## Devicon
 
-원본: https://github.com/devicons/devicon · 쓴 곳: Playwright·Zustand·React Native 로고
+원본: https://github.com/devicons/devicon · 쓴 곳: Playwright·Zustand 로고
 
 ```text
 The MIT License (MIT)
