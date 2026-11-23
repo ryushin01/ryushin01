@@ -87,7 +87,7 @@ SOFTWARE.
 
 ## Simple Icons
 
-원본: https://github.com/simple-icons/simple-icons · 쓴 곳: 로고 30개(목록은 README의 출처)
+원본: https://github.com/simple-icons/simple-icons · 쓴 곳: 로고 39개(목록은 README의 출처)
 
 CC0 1.0 Universal(퍼블릭 도메인 기증)이라 고지 의무는 없지만 출처로 적습니다.
 
