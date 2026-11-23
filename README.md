@@ -6,14 +6,14 @@
 
 ## 기술 스택
 
-![HTML, CSS, JavaScript, TypeScript, Dart, React, Next.js, Vue.js, Nuxt, Quasar, Svelte, SolidJS, Angular, React Native, Expo, Electron, Flutter, NestJS, Fastify, React Router, PostgreSQL, RxJS, TanStack Query, React Hook Form, Axios, Socket.IO, Redux, Zustand, Pinia, Zod, Tailwind CSS, UnoCSS, Sass, styled-components, Emotion, vanilla-extract, shadcn/ui, Radix UI, Chakra UI, Ant Design, D3, three.js, Swiper, GSAP, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, Storybook, ESLint, Prettier, Biome, Stylelint, Sentry, Lighthouse, Vite, Babel, PWA, Nx, Turborepo, npm, pnpm, Yarn, Bun, Git, GitHub, GitHub Actions, Vercel, Netlify, Cloudflare, Docker, Claude, Codex, Grok](docs/images/tech-stack.svg)
+![HTML, CSS, JavaScript, TypeScript, Dart, React, Next.js, Vue.js, Nuxt, Quasar, Svelte, SolidJS, Angular, React Native, Expo, Electron, Flutter, NestJS, Fastify, React Router, Supabase, Neon, PostgreSQL, JWT, RxJS, TanStack, TanStack Query, React Hook Form, Axios, Socket.IO, Zero, Redux, Zustand, Pinia, Zod, RSS, Stripe, Tailwind CSS, UnoCSS, Sass, styled-components, Emotion, vanilla-extract, Bulma, shadcn/ui, Radix UI, Chakra UI, Ant Design, D3, three.js, Swiper, GSAP, WebGL, Vitest, Jest, Testing Library, Playwright, Cypress, MSW, axe, Storybook, ESLint, Prettier, Biome, Stylelint, Sentry, Lighthouse, Vite, Babel, sharp, PWA, Nx, Turborepo, npm, pnpm, Yarn, Bun, Git, GitHub, GitHub Actions, Vercel, Netlify, Cloudflare, Docker, Claude, Codex, Grok](docs/images/tech-stack.svg)
 
 | 구분 | 기술 |
 |---|---|
 | 언어 | HTML, CSS, JavaScript, TypeScript, Dart |
 | 프레임워크 | React, Next.js, TanStack Start, Vue.js, Nuxt, Quasar, Svelte, SvelteKit, SolidJS, Angular, React Native, Expo, Electron, Flutter, NestJS, Fastify |
 | 라우팅·다국어 | React Router, TanStack Router, Solid Router, Vue Router, Expo Router, React Navigation, vue-i18n, next-intl |
-| 상태·데이터 | OpenAPI(openapi-typescript), Supabase, Neon(PostgreSQL), PostgreSQL, PGlite, Drizzle ORM, Better Auth, MQTT(Aedes), Hyperdrive, Workers KV, OpenStreetMap(Overpass API), Angular Signals, Signal Forms, RxJS, TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, Server-Sent Events, IndexedDB, BroadcastChannel, Redux, Redux Toolkit, redux-saga, Zustand, jotai, nuqs, Pinia, VueUse, GetX, Zod, es-hangul, Open-Meteo, Stripe |
+| 상태·데이터 | OpenAPI(openapi-typescript), Supabase, Neon(PostgreSQL), PostgreSQL, PGlite, Drizzle ORM, Better Auth, JWT, MQTT(Aedes), Hyperdrive, Workers KV, OpenStreetMap(Overpass API), Angular Signals, Signal Forms, RxJS, TanStack, TanStack Query, TanStack Table, TanStack Virtual, React Hook Form, Axios, Dio, Socket.IO Client, Server-Sent Events, Zero, IndexedDB, BroadcastChannel, Redux, Redux Toolkit, redux-saga, Zustand, jotai, nuqs, Pinia, VueUse, GetX, Zod, es-hangul, Open-Meteo, RSS, Stripe |
 | 스타일 | Tailwind CSS, UnoCSS, Sass(SCSS), CSS Modules, styled-components, Emotion, vanilla-extract, Unistyles, Panda CSS, Bulma, Fontsource |
 | UI·인터랙션 | shadcn/ui, Base UI, React Aria Components, Radix Themes, Chakra UI, Ant Design, Tamagui, Recharts, D3, MapLibre GL, three.js, React Three Fiber, drei, lil-gui, Tiptap, dnd-kit, Swiper, Embla Carousel, GSAP, Motion, Lenis, CSS 스크롤 타임라인, View Transitions API, CSS Font Loading API, SSGOI, Reanimated, FlashList, WebGL, GLSL, WebGPU, TSL, Canvas 2D, OffscreenCanvas, SVG, OpenSeadragon, Annotorious, opentype.js, Clipper2, pdf.js |
 | 테스트 | Vitest, Jest, Testing Library, React Three Test Renderer, Vue Test Utils, Playwright, Cypress, MSW, axe, fast-check, Maestro |
@@ -68,11 +68,12 @@
 
 | 자료 | 저작자·라이선스 | 쓴 곳 |
 |---|---|---|
-| [Skill Icons](https://github.com/tandpfun/skill-icons) | © 2022 tandpfun, MIT | 아이콘 41개와 나머지 35개의 바탕 |
-| [Simple Icons](https://github.com/simple-icons/simple-icons) | Simple Icons 기여자, CC0 1.0 | Quasar, Expo, Fastify, UnoCSS, vanilla-extract, shadcn/ui, Radix UI, Chakra UI, Ant Design, GSAP, Swiper, TanStack Query, React Hook Form, Zod, Axios, Socket.IO, PWA, React Router, Nx, Turborepo, Testing Library, MSW, Storybook, Biome, ESLint, Prettier, Stylelint, Sentry, Lighthouse, Claude 로고 |
+| [Skill Icons](https://github.com/tandpfun/skill-icons) | © 2022 tandpfun, MIT | 아이콘 41개와 나머지 46개의 바탕 |
+| [Simple Icons](https://github.com/simple-icons/simple-icons) | Simple Icons 기여자, CC0 1.0(16.38.1) | Quasar, Expo, Fastify, UnoCSS, vanilla-extract, shadcn/ui, Radix UI, Chakra UI, Ant Design, GSAP, Swiper, TanStack Query, React Hook Form, Zod, Axios, Socket.IO, Supabase, WebGL, Neon, TanStack, RSS, JWT, Stripe, sharp, Bulma, PWA, React Router, Nx, Turborepo, Testing Library, MSW, Storybook, Biome, ESLint, Prettier, Stylelint, Sentry, Lighthouse, Claude 로고 |
 | [Devicon](https://github.com/devicons/devicon) | © 2015 konpa, MIT | Playwright·Zustand 로고 |
 | [React Native](https://reactnative.dev/) 로고 + 글자 "React Native"(Inter Bold) | 로고 © Meta Platforms, Inc.(reactnative.dev), 글자는 [Inter](https://github.com/rsms/inter)(SIL OFL 1.1)를 윤곽선으로 바꿈 | React Native |
 | [Lobe Icons](https://github.com/lobehub/lobe-icons) | © 2023 LobeHub, MIT | Codex(OpenAI 로고), Grok 로고 |
+| axe·Zero: 공식 로고가 아닌 글자 아이콘(직접 제작, [Inter](https://github.com/rsms/inter) Bold OFL을 윤곽선으로 바꿈) | 직접 제작, 글자는 Inter(SIL OFL 1.1) | axe, Zero |
 
 프로젝트 표의 아이콘(`docs/images/projects`)은 각 프로젝트의 홈 화면 아이콘을 줄인 것입니다. 바깥 자료로 만든 아이콘은 아래와 같고, 나머지(cERS, GAON, KAO, LuminousKR, Original_Universe, SoG, swordNblade, TheCrimsonArc, ZERO)는 직접 그렸습니다. 이 프로필 저장소(ryushin01)의 아이콘은 RAON-Monorepo의 왕관 아이콘을 줄인 것입니다.
 
