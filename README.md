@@ -73,7 +73,7 @@
 | [Devicon](https://github.com/devicons/devicon) | © 2015 konpa, MIT | Playwright·Zustand 로고 |
 | [React Native](https://reactnative.dev/) 로고 + 글자 "React Native"(Inter Bold) | 로고 © Meta Platforms, Inc.(reactnative.dev), 글자는 [Inter](https://github.com/rsms/inter)(SIL OFL 1.1)를 윤곽선으로 바꿈 | React Native |
 | [Lobe Icons](https://github.com/lobehub/lobe-icons) | © 2023 LobeHub, MIT | Codex(OpenAI 로고), Grok 로고 |
-| axe: 공식 SVG 로고를 구하지 못해 로고가 아닌 글자 아이콘(직접 제작, [Inter](https://github.com/rsms/inter) Bold OFL을 윤곽선으로 바꿈) | 직접 제작, 글자는 Inter(SIL OFL 1.1) | axe |
+| axe 공식 로고([Deque 블로그](https://www.deque.com/blog/deque-unifies-accessibility-software-under-axe/) `axe-rebrand-1.png`, 래스터에서 배경만 제거) | © Deque Systems. 상표는 Deque Systems의 것이며 기술 표기 목적으로만 사용 | axe |
 | [Zero](https://zero.rocicorp.dev/images/logo.svg) 로고 | © Rocicorp. 상표는 각 소유자(Deque Systems, Rocicorp)의 것이며 기술 표기 목적으로만 사용 | Zero |
 
 프로젝트 표의 아이콘(`docs/images/projects`)은 각 프로젝트의 홈 화면 아이콘을 줄인 것입니다. 바깥 자료로 만든 아이콘은 아래와 같고, 나머지(cERS, GAON, KAO, LuminousKR, Original_Universe, SoG, swordNblade, TheCrimsonArc, ZERO)는 직접 그렸습니다. 이 프로필 저장소(ryushin01)의 아이콘은 RAON-Monorepo의 왕관 아이콘을 줄인 것입니다.
