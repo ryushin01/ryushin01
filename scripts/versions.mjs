@@ -76,7 +76,7 @@ async function versionOf(repo) {
   return best ? plain(best) : null;
 }
 
-// 표의 줄: | 번호 | [이름](https://github.com/ryushin01/저장소) (v1.2.3) | 내용 | 기술 | 실행 |
+// 표의 줄: | 번호 | [이름](https://github.com/ryushin01/저장소) (v1.2.3) | 내용 | 기술 | 확인 |
 // 이름 앞에 아이콘(<img>)이 있어도 됩니다.
 const ROW = /^\| \d+ \| /;
 const LINK = new RegExp(`(\\[[^\\]]+\\]\\(https://github\\.com/${OWNER}/([^)/\\s]+)\\))(?: \\(v[^)\\s]+\\))?`);
