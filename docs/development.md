@@ -10,6 +10,7 @@ GitHub 프로필 첫 화면에 보이는 README 저장소입니다. 빌드할 �
 | `docs/images/tech-stack.svg` | 기술 스택 아이콘을 한 장으로 모은 그림 |
 | `docs/images/projects/<저장소>.png` | 프로젝트 표 이름 앞의 아이콘(64×64 PNG, 화면에는 20×20) |
 | `docs/third-party-notices.md` | 아이콘 자료의 라이선스 전문(MIT·Apache 2.0) |
+| `scripts/tech-stack.test.mjs` | 기술 스택 그림·README 표·출처의 개수와 순서를 맞춰 보는 검사(`node --test scripts/`) |
 | `scripts/versions.mjs` | 프로젝트 표의 버전 `(v1.2.3)`을 각 저장소에서 읽어 고치는 스크립트 |
 | `.github/workflows/versions.yml` | 위 스크립트를 30분마다, README가 바뀔 때, 손으로 실행할 때 돌림 |
 
@@ -25,7 +26,7 @@ GitHub 프로필 첫 화면에 보이는 README 저장소입니다. 빌드할 �
 
 1. 표(`## 기술 스택` 아래)에 기술 이름을 더합니다.
 2. 그림에도 아이콘을 넣으려면 `docs/images/tech-stack.svg`에 아이콘을 더하고, 맨 위 `aria-label`과 README의 그림 대체 텍스트에 이름을 같은 순서로 넣습니다.
-3. 아이콘을 새 자료에서 가져왔으면 README의 `## 출처` 표와 `docs/third-party-notices.md`를 함께 고칩니다. 쓴 아이콘 수(예: Skill Icons "아이콘 37개와 나머지 33개의 바탕")가 두 문서에서 같아야 합니다.
+3. 아이콘을 새 자료에서 가져왔으면 README의 `## 출처` 표와 `docs/third-party-notices.md`를 함께 고칩니다. 쓴 아이콘 수(예: Skill Icons "아이콘 38개와 나머지 62개의 바탕")가 두 문서에서 같아야 합니다.
 
 ## 버전 스크립트를 로컬에서 돌리기
 

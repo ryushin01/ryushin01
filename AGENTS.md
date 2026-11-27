@@ -15,6 +15,7 @@ docs/images/tech-stack.svg   기술 스택 그림
 docs/images/projects/*.png   프로젝트 표 아이콘(저장소 이름과 같은 파일 이름)
 docs/third-party-notices.md  서드파티 고지(MIT·Apache 2.0 등 전문)
 scripts/versions.mjs         프로젝트 표의 버전 자동 갱신
+scripts/tech-stack.test.mjs  기술 스택 그림·README·출처 대조 검사(node --test)
 .github/workflows/versions.yml
 ```
 
@@ -29,7 +30,7 @@ scripts/versions.mjs         프로젝트 표의 버전 자동 갱신
 
 - CI 검사 워크플로는 없습니다. PR 전에 다음을 직접 확인합니다.
   - README 표가 깨지지 않는지(줄마다 `| 번호 | 프로젝트 | 내용 | 기술 | 확인 |` 5칸 유지, 브랜치의 README를 GitHub에서 열어 확인).
-  - 기술 스택 그림을 고쳤으면 아래 5절의 세 곳(그림 순서, 대체 텍스트, 출처 표)이 서로 맞는지.
+  - 기술 스택 그림을 고쳤으면 아래 5절의 세 곳(그림 순서, 대체 텍스트, 출처 표)이 서로 맞는지. `node --test scripts/`가 개수·순서·출처 합계를 검사합니다(아이콘 수를 바꾸면 `scripts/tech-stack.test.mjs`의 `EXPECTED`도 고칩니다).
   - 링크(데모·저장소·출처)가 200인지.
 - `versions.yml`: 30분마다, `README.md`가 main에 푸시될 때, 손으로 실행할 때 돌아 바뀐 버전만 `docs: 프로젝트 버전 갱신`으로 main에 커밋합니다(작성자는 ryushin01로 설정).
 
