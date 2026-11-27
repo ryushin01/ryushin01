@@ -77,7 +77,7 @@ test("기술 표의 순서와 그림 순서가 일치", () => {
 });
 
 test("그림에서 뺀 기술이 기술 표에 남아 있지 않음", () => {
-  for (const name of ["TanStack Query", "PostgreSQL", "Neon(PostgreSQL)", "Docker"]) {
+  for (const name of ["GitHub", "PostgreSQL", "Neon(PostgreSQL)", "Docker"]) {
     assert.ok(!tableItems.includes(name), `${name}이 기술 표에 있음`);
   }
 });
@@ -115,4 +115,10 @@ test("서드파티 고지의 개수가 README 출처와 같음", () => {
   const simple = sourceRows.find((c) => c[0].includes("Simple Icons"));
   const simpleCount = used(simple[2]).replace(/ 로고$/, "").split(/, (?![^()]*\))/).length;
   assert.ok(notices.includes(`로고 ${simpleCount}개`));
+});
+
+test("TanStack Query와 GitHub Actions는 그림에 있고 GitHub 단독은 없음", () => {
+  assert.ok(altList.includes("TanStack Query"));
+  assert.ok(altList.includes("GitHub Actions"));
+  assert.ok(!altList.includes("GitHub"));
 });
