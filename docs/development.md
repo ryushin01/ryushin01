@@ -26,7 +26,7 @@ GitHub 프로필 첫 화면에 보이는 README 저장소입니다. 빌드할 �
 
 1. 표(`## 기술 스택` 아래)에 기술 이름을 더합니다.
 2. 그림에도 아이콘을 넣으려면 `docs/images/tech-stack.svg`에 아이콘을 더하고, 맨 위 `aria-label`과 README의 그림 대체 텍스트에 이름을 같은 순서로 넣습니다.
-3. 아이콘을 새 자료에서 가져왔으면 README의 `## 출처` 표와 `docs/third-party-notices.md`를 함께 고칩니다. 쓴 아이콘 수(예: Skill Icons "아이콘 38개와 나머지 62개의 바탕")가 두 문서에서 같아야 합니다.
+3. 아이콘을 새 자료에서 가져왔으면 README의 `## 출처` 표와 `docs/third-party-notices.md`를 함께 고칩니다. 쓴 아이콘 수(예: Skill Icons "아이콘 37개와 나머지 63개의 바탕")가 두 문서에서 같아야 합니다.
 
 ## 버전 스크립트를 로컬에서 돌리기
 
